@@ -94,7 +94,6 @@ if(is_singular() && get_post_meta($post->ID , 'noindex' , true)){
                         <ul class="nav-link">
                             <li><a href="<?php echo esc_url( home_url() ); ?>/about/">MIZUKARAについて</a></li>
                             <li><a href="<?php echo esc_url( home_url() ); ?>/member/">メンバー</a></li>
-                            <li><a href="<?php echo esc_url( home_url() ); ?>/recruit/">採用情報</a></li>
                             <li><a href="<?php echo esc_url( home_url() ); ?>/news/">お知らせ</a></li>
                         </ul>
                         <ul class="nav-link">

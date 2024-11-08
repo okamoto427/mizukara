@@ -14,7 +14,7 @@
           </div>
           <div class="s-fMenu__icLink">
             <div class="js-view js-view-opacity">
-              <a href="https://recruit.MIZUKARA.co.jp/" target="_blank" class="c-icLink f-futura">
+              <a href="<?php echo home_url('/recruit/'); ?>" target="_blank" class="c-icLink f-futura">
                 View more
                 <?php get_template_part('assets_renew/images/common/ic-three-circle',null,$args); ?>
               </a>
@@ -81,9 +81,6 @@
                 </div>
                 <div class="s-fBottom-separate__el">
                   <a href="<?php echo home_url('/voice/'); ?>" class="s-fBottom-separate__majorLink f-futura c-hover-opacity">VOICE</a>
-                </div>
-                <div class="s-fBottom-separate__el">
-                  <a href="https://recruit.MIZUKARA.co.jp/" class="s-fBottom-separate__majorLink f-futura c-hover-opacity">RECRUIT</a>
                 </div>
                 <div class="s-fBottom-separate__el">
                   <a href="<?php echo home_url('/news/'); ?>" class="s-fBottom-separate__majorLink f-futura c-hover-opacity">NEWS</a>

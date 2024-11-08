@@ -22,7 +22,7 @@
           <a href="<?php echo home_url('/member/'); ?>" class="c-hover-opacity">メンバー</a>
         </div>
         <div class="l-header-drawer__el">
-          <a href="https://recruit.MIZUKARA.co.jp/" target="_blank" class="c-hover-opacity">採用</a>
+          <a href="<?php echo home_url('/recruit/'); ?>" target="_blank" class="c-hover-opacity">採用</a>
         </div>
         <div class="l-header-drawer__el">
           <a href="<?php echo home_url('/news/'); ?>" class="c-hover-opacity">お知らせ</a>
@@ -52,7 +52,7 @@
       <a href="<?php echo home_url('/about/'); ?>" class="l-header__link c-hover-opacity">MIZUKARAについて</a>
       <a class="l-header__link js-megaTrigger">サービス・事業</a>
       <a href="<?php echo home_url('/member/'); ?>" class="l-header__link c-hover-opacity">メンバー</a>
-      <a href="https://recruit.MIZUKARA.co.jp" class="l-header__link c-hover-opacity">採用</a>
+      <a href="<?php echo home_url('/recruit/'); ?>" class="l-header__link c-hover-opacity">採用</a>
       <a href="<?php echo home_url('/news/'); ?>" class="l-header__link c-hover-opacity">お知らせ</a>
     </nav>
     <p class="l-header__cr">MIZUKARA All rights Reserved</p>

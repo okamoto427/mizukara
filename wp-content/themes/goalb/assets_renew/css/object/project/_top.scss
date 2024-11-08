@@ -655,11 +655,17 @@
 
   /* スライド3枚のグループ */
   .slider {
-    animation: scroll-left 40s infinite linear .5s both;
+    animation: scroll-left 80s infinite linear .5s both;
     display: flex; /* スライド3枚を横並び */
     gap: 2rem;
     &-reverse {
-      animation: scroll-right 40s infinite linear .5s both;
+      animation: scroll-right 80s infinite linear .5s both;
+    }
+    @media screen and (max-width: 767px), print {
+      animation: scroll-left 40s infinite linear .5s both;
+      &-reverse {
+        animation: scroll-right 40s infinite linear .5s both;
+      }
     }
   }
 
