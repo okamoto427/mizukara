@@ -486,7 +486,7 @@
         </div>
     </section>
 
-    <section class="m-imagetext">
+    <!-- <section class="m-imagetext">
         <div class="m-imagetext__inner">
             <div class="tapes-topleft" data-appear-on="scroll">
                 <div class="tape-gray m-imagetext__bg07" data-appear-animation="grayTape"></div>
@@ -511,7 +511,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
 </main>
 <?php get_template_part('parts/bread'); ?>

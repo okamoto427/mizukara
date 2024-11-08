@@ -1,5 +1,5 @@
   <footer class="l-footer">
-    <section class="s-fMenu">
+    <!-- <section class="s-fMenu">
       <div class="s-fMenu__el">
         <div>
           <h3 class="c-ttlJpEn s-fMenu__ttl">
@@ -44,7 +44,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <div class="js-view js-view-opacity-top">
       <section class="s-fBottom">
