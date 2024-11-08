@@ -58,7 +58,7 @@
                             src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/icon-twitter-white.svg"
                             alt="" /></a></li>
             </ul>
-            <p class="l-footer__copy">2024 ミズカラ All rights Reserved</p>
+            <p class="l-footer__copy">2024 Mizukara,Inc. All rights Reserved</p>
         </div>
     </div>
 

@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 
-<main class="l-content pt0 bgpadding">
+<main class="l-content pt0 bgpadding" style="padding-bottom: 21rem !important;">
 
     <div class="tapes-bottomright -spleft" data-appear-on="scroll">
         <div class="tape-gray tape-04 pc" data-appear-animation="grayTape"></div>
@@ -467,8 +467,8 @@
         </div>
     </section>
 
-    <section class="m-about">
-        <div class="m-about__items js-tab">
+    <section class="m-about" style="padding-bottom: 0 !important;">
+        <div class="m-about__items js-tab" style="padding-bottom: 0 !important;">
             <div class="m-about__title">
                 <h2 class="m-title01 -spcenter" id="faq"><span class="english">FAQ</span><span
                         class="japanese">よくあるご質問</span></h2>

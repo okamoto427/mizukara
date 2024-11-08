@@ -97,7 +97,7 @@
                 <a href="<?php echo home_url('/law/'); ?>" class="c-hover-opacity">特定商取引法に基づく表記</a>
                 <a href="<?php echo home_url('/policy/'); ?>" class="c-hover-opacity">利用規約</a>
               </nav>
-              <p class="s-fBottom-separate__cr f-futura">ミズカラ All rights Reserved</p>
+              <p class="s-fBottom-separate__cr f-futura">Mizukara,Inc. All rights Reserved</p>
             </div>
 
             <div class="s-fBottom-separate__br">

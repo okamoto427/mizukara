@@ -55,7 +55,7 @@
       <a href="<?php echo home_url('/recruit/'); ?>" class="l-header__link c-hover-opacity">採用</a>
       <a href="<?php echo home_url('/news/'); ?>" class="l-header__link c-hover-opacity">お知らせ</a>
     </nav>
-    <p class="l-header__cr">ミズカラ All rights Reserved</p>
+    <p class="l-header__cr">Mizukara,Inc. All rights Reserved</p>
   </header>
 
 
