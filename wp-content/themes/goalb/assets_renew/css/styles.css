@@ -1843,6 +1843,44 @@ html.is-drawer .l-header__nav {
   background: #fff;
   border-radius: 9999px;
 }
+.s-guideline__line span::after {
+  content: "";
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: #fff;
+  -webkit-animation: pikon 2s infinite linear 0.5s both;
+          animation: pikon 2s infinite linear 0.5s both;
+  border-radius: 9999px;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+@-webkit-keyframes pikon {
+  0% {
+    height: 100%;
+    width: 100%;
+    opacity: 0.5;
+  }
+  100% {
+    width: calc(100% + 2rem);
+    height: calc(100% + 2rem);
+    opacity: 0;
+  }
+}
+@keyframes pikon {
+  0% {
+    height: 100%;
+    width: 100%;
+    opacity: 0.5;
+  }
+  100% {
+    width: calc(100% + 2rem);
+    height: calc(100% + 2rem);
+    opacity: 0;
+  }
+}
 .s-guideline__line span:nth-of-type(1) {
   left: 50%;
   -webkit-transform: translateX(-50%);
