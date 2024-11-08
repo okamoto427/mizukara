@@ -7464,7 +7464,7 @@ textarea {
 .m-member__image img{
 	width: 100%;
 	object-fit: cover;
-	aspect-ratio: 3 / 4;
+	aspect-ratio: 3 / 2;
 }
 .m-member--toc-coach .m-member__image img {
 	aspect-ratio: 1 / 1;

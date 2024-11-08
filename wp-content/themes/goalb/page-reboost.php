@@ -31,7 +31,7 @@
     ?>
 <header id="header" class="siteHeader">
     <p class="siteHeader__logo">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shared/logo.svg" alt="ミズカラ" width="118"
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shared/logo-renew.svg" alt="ミズカラ" width="118"
             height="25">
     </p>
     <div class="keyVisual">

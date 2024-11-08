@@ -69,7 +69,7 @@ if(is_singular() && get_post_meta($post->ID , 'noindex' , true)){
             </div>
             <div class="l-header__menus">
                 <div class="l-header__logoIn"><a href="<?php echo esc_url( home_url() ); ?>/"><img
-                            src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white.svg"
+                            src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white-renew.svg"
                             alt="ミズカラ" /></a></div>
                 <nav class="nav-global">
                     <div class="nav-heading">サービス・事業</div>

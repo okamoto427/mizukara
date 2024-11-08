@@ -32,7 +32,7 @@
 	
 <header class="l-header">
 <div class="l-header__inner">
-	<div class="l-header__logo"><a href="<?php echo esc_url( home_url() ); ?>/"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo.svg" alt="ミズカラ" /></a></div>
+	<div class="l-header__logo"><a href="<?php echo esc_url( home_url() ); ?>/"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-renew.svg" alt="ミズカラ" /></a></div>
 	<nav class="nav-global pc">
 	<ul>
 		<li><a href="<?php echo esc_url( home_url() ); ?>/about/"><span class="english">ABOUT</span><span class="japanese">ミズカラについて</span></a></li>
@@ -63,7 +63,7 @@
 		</div>
 	</div>
 	<div class="l-header__menus">
-		<div class="l-header__logoIn"><a href="<?php echo esc_url( home_url() ); ?>/"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white.svg" alt="ミズカラ" /></a></div>
+		<div class="l-header__logoIn"><a href="<?php echo esc_url( home_url() ); ?>/"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white-renew.svg" alt="ミズカラ" /></a></div>
 		<nav class="nav-global">
 			<div class="nav-heading">サービス・事業</div>
 			<div class="nav-row">
