@@ -323,10 +323,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </main>
     <footer>
       <p class="footer_link">
-        <a href="https://MIZUKARA.co.jp/about/">会社概要</a> | 
-        <a href="https://MIZUKARA.co.jp/law/">特定商取引法上の表記</a> | <br class="sp">
-        <a href="https://MIZUKARA.co.jp/privacy/">プライバシーポリシー</a> | 
-        <a href="https://MIZUKARA.co.jp/contact/">お問い合わせ</a>
+        <a href="https://goal-b.co.jp/about/">会社概要</a> | 
+        <a href="https://goal-b.co.jp/law/">特定商取引法上の表記</a> | <br class="sp">
+        <a href="https://goal-b.co.jp/privacy/">プライバシーポリシー</a> | 
+        <a href="https://goal-b.co.jp/contact/">お問い合わせ</a>
       </p>
       <p>掲載の情報・画像など、すべての<br class="sp">コンテンツの無断複写・転載を禁じます。</p>
       <small>Copyright © 2023 株式会社MIZUKARA. All Rights Reserved.</small>

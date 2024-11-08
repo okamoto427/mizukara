@@ -255,7 +255,7 @@
             </div>
             <div class="impact-article">
                 <p>組織コーチングの詳細記事はこちら</p>
-                <a href="https://MIZUKARA.co.jp/magazine/organizational-coaching-impact/" target="_blank">
+                <a href="https://goal-b.co.jp/magazine/organizational-coaching-impact/" target="_blank">
                     <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/impact-article.jpg"
                         alt="組織コーチングの詳細記事">
                 </a>
@@ -274,7 +274,7 @@
             <p class="m-textCenter">経験豊富なプロのコーチ陣が<br class="sp">お待ちしております。</p>
             <div class="m-coach__items m-coach__items--impact">
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/yamamiya" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/yamamiya" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-yamamiya.png"
@@ -288,7 +288,7 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/yamaguchi" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/yamaguchi" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-yamaguchi.png"
@@ -301,7 +301,7 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/konta" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/konta" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-konta.png"
@@ -314,7 +314,7 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/mitani" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/mitani" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-mitani.png"
@@ -327,7 +327,7 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/hata" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/hata" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-hata.png"
@@ -342,7 +342,7 @@
             </div>
             <div class="m-coach__items m-coach__slide js-slider m-coach__slide--impact">
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/yamamiya" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/yamamiya" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-yamamiya.png"
@@ -356,7 +356,7 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/yamaguchi" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/yamaguchi" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-yamaguchi.png"
@@ -369,7 +369,7 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/konta" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/konta" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-konta.png"
@@ -382,7 +382,7 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/mitani" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/mitani" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-mitani.png"
@@ -395,7 +395,7 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/tobcoach/hata" tabindex="-1">
+                    <a href="https://goal-b.co.jp/tobcoach/hata" tabindex="-1">
                         <div class="m-coach__image">
                             <img loading="lazy"
                                 src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/impact/tob-hata.png"

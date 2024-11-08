@@ -106,7 +106,7 @@
                 <p class="m-privacy__text">ご意見、ご質問、苦情のお申出その他利用者情報の取扱いに関するお問い合わせは、下記の窓口までお願いいたします。</p>
                 <p class="m-privacy__text">住所：東京都港区虎ノ門4－1－1神谷町トラストタワー23F<br>
                     社名：株式会社MIZUKARA<br>
-                    Eメールアドレス：info@MIZUKARA.co.jp</p>
+                    Eメールアドレス：info@goal-b.co.jp</p>
             </div>
         </div>
     </section>

@@ -257,10 +257,10 @@
             <p class="m-textCenter">経験豊富なプロのコーチが<br class="sp">お待ちしております。</p>
             <div class="m-coach__items m-coach__items--executive">
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/member/goodsun/" tabindex="-1">
+                    <a href="https://goal-b.co.jp/member/goodsun/" tabindex="-1">
                         <div class="m-coach__image">
                             <img width="1024" height="683"
-                                src="https://MIZUKARA.co.jp/wordpress/wp-content/uploads/2023/07/DSC01391-1024x683.jpg"
+                                src="https://goal-b.co.jp/wordpress/wp-content/uploads/2023/07/DSC01391-1024x683.jpg"
                                 class="attachment-large size-large wp-post-image" alt="" decoding="async"
                                 loading="lazy">
                         </div>
@@ -272,10 +272,10 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://MIZUKARA.co.jp/member/haruka/" tabindex="-1">
+                    <a href="https://goal-b.co.jp/member/haruka/" tabindex="-1">
                         <div class="m-coach__image">
                             <img width="1024" height="762"
-                                src="https://MIZUKARA.co.jp/wordpress/wp-content/uploads/2023/07/f2364efb-1532-49ba-83b5-4358dd336c95-1024x762.jpg"
+                                src="https://goal-b.co.jp/wordpress/wp-content/uploads/2023/07/f2364efb-1532-49ba-83b5-4358dd336c95-1024x762.jpg"
                                 class="attachment-large size-large wp-post-image" alt="" decoding="async"
                                 loading="lazy">
                         </div>

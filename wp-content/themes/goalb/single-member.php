@@ -91,11 +91,11 @@
     <div class="careerspeed-area" style="background-color:#e6f6f0">
         <p class="has-text-align-center"><strong>自信と強みを引き出すキャリアコーチング</strong></p>
         <figure class="careerspeed-img"><img decoding="async" width="536" height="125"
-                src="https://MIZUKARA.co.jp/wordpress/wp-content/uploads/2023/10/logo_careerspeed.png"></figure>
+                src="https://goal-b.co.jp/wordpress/wp-content/uploads/2023/10/logo_careerspeed.png"></figure>
         <p class="big-text"><strong>全ての人に可能性がある</strong></p>
         <p class="concept-box"><strong>強み、才能を明らかにし、人生を変える<br>キャリア特化型コーチングサービス「キャリスピ」</strong></p>
         <div class="careerspeed-link-button-wrap">
-            <a class="careerspeed-link-button" href="https://MIZUKARA.co.jp/careerspeed_member/"
+            <a class="careerspeed-link-button" href="https://goal-b.co.jp/careerspeed_member/"
                 target="_blank">キャリスピについての詳細はこちら</a>
         </div>
     </div><!-- /キャリスピCTA -->

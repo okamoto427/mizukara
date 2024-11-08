@@ -39,8 +39,8 @@
                 <div class="nav-heading">オウンドメディア</div>
                 <div class="nav-row -bottom">
                     <ul class="nav-link nav-link--media">
-                        <li><a href="https://MIZUKARA.co.jp/magazine/" target="_blank">今日も最高の1日に</a></li>
-                        <li><a href="https://MIZUKARA.co.jp/careercoaching-lab/" target="_blank">キャリアコーチング研究所</a></li>
+                        <li><a href="https://goal-b.co.jp/magazine/" target="_blank">今日も最高の1日に</a></li>
+                        <li><a href="https://goal-b.co.jp/careercoaching-lab/" target="_blank">キャリアコーチング研究所</a></li>
                     </ul>
                 </div>
             </div>

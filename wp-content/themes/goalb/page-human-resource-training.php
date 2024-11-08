@@ -98,7 +98,7 @@
                 </div>
                 <!-- <div class="program-item">		
 				<div class="program-itemIn">	
-					<div class="program-image"><img src="https://MIZUKARA.co.jp/wordpress/wp-content/uploads/2023/09/065_230303.jpg" alt=""/></div>
+					<div class="program-image"><img src="https://goal-b.co.jp/wordpress/wp-content/uploads/2023/09/065_230303.jpg" alt=""/></div>
 					<div class="program-texts">
 						<div class="program-icon">PROGRAM 2</div>
 						<div class="program-text01">コーチングスクール（仮）</div>

@@ -102,7 +102,7 @@ if(is_singular() && get_post_meta($post->ID , 'noindex' , true)){
                             </li>
                         </ul>
                         <ul class="nav-link">
-                            <li><a href="https://MIZUKARA.co.jp/magazine/" target="_blank">MIZUKARAマガジン</a></li>
+                            <li><a href="https://goal-b.co.jp/magazine/" target="_blank">MIZUKARAマガジン</a></li>
                             <li><a href="<?php echo esc_url( home_url() ); ?>/contact/">お問い合わせフォーム</a></li>
                         </ul>
                     </div>

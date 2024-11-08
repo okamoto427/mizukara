@@ -71,7 +71,7 @@
                   <a href="" class="s-fBottom-separate__majorLink f-futura" style="pointer-events: none;">BUSINESS</a>
                   <div class="s-fBottom-separate__sub">
                     <a href="<?php echo home_url('/coaching/'); ?>" class="s-fBottom-separate__subLink c-hover-opacity">エグゼクティブコーチング</a><br>
-                    <a href="https://MIZUKARA.co.jp/careerspeed/" target="_blank" class="s-fBottom-separate__subLink c-hover-opacity">キャリアコーチング</a><br>
+                    <a href="https://goal-b.co.jp/careerspeed/" target="_blank" class="s-fBottom-separate__subLink c-hover-opacity">キャリアコーチング</a><br>
                     <a href="<?php echo home_url('/human-resource-training/'); ?>" class="s-fBottom-separate__subLink c-hover-opacity">人材研修プログラム</a><br>
                     <a href="<?php echo home_url('/agent/'); ?>" class="s-fBottom-separate__subLink c-hover-opacity">組織コーチング</a>
                   </div>

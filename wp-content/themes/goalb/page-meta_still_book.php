@@ -691,8 +691,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </main>
     <footer class="footer">
         <div class="footer__top">
-            <a href="https://MIZUKARA.co.jp/privacy/" target="_blank" class="footer__link">プライバシーポリシー</a>
-            <a href="https://MIZUKARA.co.jp/about/" target="_blank" class="footer__link">会社概要</a>
+            <a href="https://goal-b.co.jp/privacy/" target="_blank" class="footer__link">プライバシーポリシー</a>
+            <a href="https://goal-b.co.jp/about/" target="_blank" class="footer__link">会社概要</a>
         </div>
         <p class="footer__copyright"><span>&copy;</span> 2024 MIZUKARA All rights Reserved</p>
     </footer>

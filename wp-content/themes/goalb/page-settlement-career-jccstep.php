@@ -375,7 +375,7 @@ body .is-layout-flex>* {
 </style>
 <main class="l-payment">
     <aside class="payment-sidebar">
-        <img src="https://MIZUKARA.co.jp/wordpress/wp-content/themes/goalb/assets/images/careerspeed/logo-02.png"
+        <img src="https://goal-b.co.jp/wordpress/wp-content/themes/goalb/assets/images/careerspeed/logo-02.png"
             alt="キャリスピロゴ" class="payment-sidebar__logo" />
     </aside>
 

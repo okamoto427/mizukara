@@ -583,11 +583,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- footer -->
             <footer class="footer">
                 <div class="footer__main">
-                    <p><a href="https://MIZUKARA.co.jp/" target="_blank">会社概要</a></p>
-                    <p class="footer__tokusho"><a href="https://MIZUKARA.co.jp/law/" target="_blank">特定商取引法上の表記</a></p>
-                    <p class="footer__privacy"><a href="https://MIZUKARA.co.jp/privacy/" target="_blank">プライバシーポリシー</a>
+                    <p><a href="https://goal-b.co.jp/" target="_blank">会社概要</a></p>
+                    <p class="footer__tokusho"><a href="https://goal-b.co.jp/law/" target="_blank">特定商取引法上の表記</a></p>
+                    <p class="footer__privacy"><a href="https://goal-b.co.jp/privacy/" target="_blank">プライバシーポリシー</a>
                     </p>
-                    <p><a href="https://MIZUKARA.co.jp/contact/" target="_blank">お問い合わせ</a></p>
+                    <p><a href="https://goal-b.co.jp/contact/" target="_blank">お問い合わせ</a></p>
                 </div>
                 <p class="footer__ng">掲載の情報・画像など、すべてのコンテンツの無断複写・転載を禁じます。</p>
                 <p class="footer__adress">東京都港区虎ノ門4-1-1 神谷町トラストタワー 23F</p>

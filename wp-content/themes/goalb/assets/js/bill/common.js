@@ -23,10 +23,10 @@ async function f_submit(cust_code,opportunity_code,item_id,item_name,price) {
     order.camp_type             = "";
     order.tracking_id           = "";
     order.terminal_type = isSmartPhone() ? "1" : "0";
-    order.success_url           = "https://MIZUKARA.co.jp/settlement-thanks/";
-    order.cancel_url            = "https://MIZUKARA.co.jp/script/sbps/MerchantPayCancel.cgi";
-    order.error_url             = "https://MIZUKARA.co.jp/script/sbps/MerchantPayError.cgi";
-    order.pagecon_url           = "https://MIZUKARA.co.jp/script/sbps/MerchantPayResultRecieveSuccess.cgi";
+    order.success_url           = "https://goal-b.co.jp/settlement-thanks/";
+    order.cancel_url            = "https://goal-b.co.jp/script/sbps/MerchantPayCancel.cgi";
+    order.error_url             = "https://goal-b.co.jp/script/sbps/MerchantPayError.cgi";
+    order.pagecon_url           = "https://goal-b.co.jp/script/sbps/MerchantPayResultRecieveSuccess.cgi";
     order.free1                 = opportunity_code;
     order.free2                 = "";
     order.free3                 = "";

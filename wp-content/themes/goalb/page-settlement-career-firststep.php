@@ -356,7 +356,7 @@ var opportunityId = "<?php echo $opportunity_Id; ?>";
     </style>
     <main class="l-payment">
         <aside class="payment-sidebar">
-            <img src="https://MIZUKARA.co.jp/wordpress/wp-content/themes/goalb/assets/images/careerspeed/logo-02.png" alt="キャリスピロゴ" class="payment-sidebar__logo" />
+            <img src="https://goal-b.co.jp/wordpress/wp-content/themes/goalb/assets/images/careerspeed/logo-02.png" alt="キャリスピロゴ" class="payment-sidebar__logo" />
         </aside>
 
         <div class="payment-main">
