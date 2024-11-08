@@ -240,7 +240,7 @@
       </h2>
     </div>
     <div class="js-view js-view-opacity-top" style="overflow: hidden;">
-      <div class="slider-wrapper">
+      <div class="slider-wrapper pc">
         <div class="slider">
           <div class="slide">
             <img
@@ -250,19 +250,67 @@
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img02.jpg"
               alt=""
             />
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img03.jpg"
               alt=""
             />
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img04.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img05.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img06.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img07.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img08.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img09.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img10.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img11.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img12.jpg"
               alt=""
             />
           </div>
@@ -276,10 +324,74 @@
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img02.jpg"
               alt=""
             />
           </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img03.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img04.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img05.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img06.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img07.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img08.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img09.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img10.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img11.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img12.jpg"
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
+      <div class="slider-wrapper sp">
+        <div class="slider">
           <div class="slide">
             <img
               src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
@@ -288,7 +400,69 @@
           </div>
           <div class="slide">
             <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img02.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img03.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img04.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img05.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img06.jpg"
+              alt=""
+            />
+          </div>
+        </div>
+        <div class="slider">
+          <div class="slide">
+            <img
               src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img02.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img03.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img04.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img05.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img06.jpg"
               alt=""
             />
           </div>
@@ -298,25 +472,37 @@
         <div class="slider slider-reverse">
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img07.jpg"
               alt=""
             />
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img08.jpg"
               alt=""
             />
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img09.jpg"
               alt=""
             />
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img10.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img11.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img12.jpg"
               alt=""
             />
           </div>
@@ -324,25 +510,37 @@
         <div class="slider slider-reverse">
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img07.jpg"
               alt=""
             />
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img08.jpg"
               alt=""
             />
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img09.jpg"
               alt=""
             />
           </div>
           <div class="slide">
             <img
-              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg"
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img10.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img11.jpg"
+              alt=""
+            />
+          </div>
+          <div class="slide">
+            <img
+              src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img12.jpg"
               alt=""
             />
           </div>

@@ -2248,16 +2248,16 @@ html.is-drawer .l-header__nav {
   }
 }
 .s-member .slider {
-  -webkit-animation: scroll-left 20s infinite linear 0.5s both;
-          animation: scroll-left 20s infinite linear 0.5s both;
+  -webkit-animation: scroll-left 40s infinite linear 0.5s both;
+          animation: scroll-left 40s infinite linear 0.5s both;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex; /* スライド3枚を横並び */
   gap: 2rem;
 }
 .s-member .slider-reverse {
-  -webkit-animation: scroll-right 20s infinite linear 0.5s both;
-          animation: scroll-right 20s infinite linear 0.5s both;
+  -webkit-animation: scroll-right 40s infinite linear 0.5s both;
+          animation: scroll-right 40s infinite linear 0.5s both;
 }
 .s-member .slide {
   width: 25vw; /* 3はスライドの枚数 */
