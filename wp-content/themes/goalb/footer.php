@@ -2,7 +2,7 @@
     <div class="l-footer__inner">
         <div class="l-footer__left">
             <div class="l-footer__logo sp"><a href="<?php echo esc_url( home_url() ); ?>/"><img loading="lazy"
-                        src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white.svg"
+                        src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white-renew.svg"
                         alt="MIZUKARA" /></a></div>
             <div class="nav-footer">
                 <div class="nav-heading">サービス・事業</div>
@@ -49,7 +49,7 @@
 
         <div class="l-footer__right">
             <div class="l-footer__logo pc"><a href="<?php echo esc_url( home_url() ); ?>/"><img loading="lazy"
-                        src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white.svg"
+                        src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white-renew.svg"
                         alt="MIZUKARA" /></a></div>
             <ul class="l-footer__social">
                 <li><a href="https://youtube.com/@GOALB" target="_blank"><img loading="lazy"
