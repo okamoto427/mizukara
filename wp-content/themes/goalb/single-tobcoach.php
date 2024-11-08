@@ -70,9 +70,9 @@
         </div>
     </div>
     <?php elseif(is_single(1412)): //今田黎玖 ?>
-    <div class="tobcoach-movie-wrap tobcoach-movie-wrap--col3">
+    <div class="tobcoach-movie-wrap tobcoach-movie-wrap--col2">
         <div class="tobcoach-movie">
-            <div class="tobcoach-movie__title">創業63年企業が組織コーチングで“過去最高月商“を叩き出せた理由とは</div>
+            <div class="tobcoach-movie__title">創業63年企業が組織コーチングで<br>“過去最高月商“を叩き出せた理由とは</div>
             <div class="tobcoach-movie__content">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/szJawoWbajE?si=1mdYdpydtlMKal0U"
                     title="YouTube video player" frameborder="0"
@@ -80,7 +80,7 @@
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
         </div>
-        <div class="tobcoach-movie">
+        <!-- <div class="tobcoach-movie">
             <div class="tobcoach-movie__title">"丸3年間"徹底的に僕を丸パクリしてきた漢に密着しました。</div>
             <div class="tobcoach-movie__content">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/ivT4l6SHmgY?si=s437rQbWv8yBACZz"
@@ -88,9 +88,9 @@
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                     referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
-        </div>
+        </div> -->
         <div class="tobcoach-movie">
-            <div class="tobcoach-movie__title">新卒1年目で年収1000万のMIZUKARAエースに1日密着したら衝撃の生活だった</div>
+            <div class="tobcoach-movie__title">新卒1年目で年収1000万の<br>MIZUKARAエースに1日密着したら衝撃の生活だった</div>
             <div class="tobcoach-movie__content">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/g_K12Y668uo?si=KTaQkp7lCPvyPxGG"
                     title="YouTube video player" frameborder="0"

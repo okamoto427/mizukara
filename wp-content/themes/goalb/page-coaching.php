@@ -123,7 +123,7 @@
             <h2 class="m-title02 -center mb30"><span class="english">VOICE</span><span class="japanese">お客さまの声</span>
             </h2>
             <p class="m-textCenter">多くの受講生が目標を達成。<br>コーチングを受けて何が変わったのかを<br class="sp">お話しいただきました。</p>
-            <div class="m-voice__items m-voice__slide js-slider">
+            <div class="m-voice__items m-voice__slide js-slider m-voice__items--coaching">
                 <?php get_template_part('parts/voice','',['voice_cat' => 'personal']); ?>
             </div>
             <div class="m-slidearrow">

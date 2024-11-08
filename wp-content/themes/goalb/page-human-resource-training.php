@@ -244,7 +244,7 @@
                     <div class="price-item__text02">リブースト<br class="sp">（Reboost）</div>
                 </div>
                 <div class="price-item__price">
-                    <div class="price-item__text04">29,800<span>円/1回</span></div>
+                    <div class="price-item__text04">49,800<span>円/1回</span></div>
                     <div class="price-item__text05">※セミナーの内容により異なります。<br>詳しくは、LINE公式アカウントを<br class="sp">ご確認ください。</div>
                 </div>
                 <div class="m-button"><a href="<?php echo esc_url( home_url() ); ?>/reboost/"><span
