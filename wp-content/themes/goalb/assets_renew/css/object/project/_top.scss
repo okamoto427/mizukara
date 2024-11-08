@@ -415,15 +415,17 @@
           top: 0;
           transform: translateX(100%);
           writing-mode: vertical-rl;
+          text-orientation: upright;
           border: 1px solid #fff;
           background: #111;
           z-index: 1;
           line-height: 1.2;
           font-size: 1.4rem;
           padding: 2.5rem 2.5rem;
-          white-space: nowrap;
           transition: .3s;
           opacity: 0;
+          font-feature-settings: initial;
+          height: 40rem;
           &::after {
             content: "";
             position: absolute;

@@ -1978,16 +1978,19 @@ html.is-drawer .l-header__nav {
   -webkit-writing-mode: vertical-rl;
       -ms-writing-mode: tb-rl;
           writing-mode: vertical-rl;
+  text-orientation: upright;
   border: 1px solid #fff;
   background: #111;
   z-index: 1;
   line-height: 1.2;
   font-size: 1.4rem;
   padding: 2.5rem 2.5rem;
-  white-space: nowrap;
   -webkit-transition: 0.3s;
   transition: 0.3s;
   opacity: 0;
+  -webkit-font-feature-settings: initial;
+          font-feature-settings: initial;
+  height: 40rem;
 }
 .s-guideline__el ul li div::after {
   content: "";
