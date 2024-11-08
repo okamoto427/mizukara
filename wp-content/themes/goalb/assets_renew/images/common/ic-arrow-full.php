@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.432 9.432"><g transform="translate(-1060.643 -5970.16)"><line x1="8.578" y2="8.578" transform="translate(1060.996 5970.66)" fill="none" stroke="#fff" stroke-width="1"/><path d="M-22530-15019.34h8.578v8.578" transform="translate(23591 20990)" fill="none" stroke="#fff" stroke-width="1"/></g></svg>

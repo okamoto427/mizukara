@@ -1,0 +1,9 @@
+.c-inner {
+  width: 96rem;
+  margin-left: auto;
+  margin-right: auto;
+  @media screen and (max-width: 767px), print {
+    width: 100%;
+    padding-inline: 3rem;
+  }
+}

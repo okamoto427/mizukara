@@ -1,0 +1,298 @@
+/*---- 見出し ----*/
+.editor-styles-wrapper h1,
+.editor-styles-wrapper h2 {
+	font-size: 2.8rem;
+	line-height: 1.7;
+	font-weight: bold;
+	margin-bottom: 2rem;
+}
+.editor-styles-wrapper h3 {
+	font-size: 2.4rem;
+	line-height: 1.7;
+	font-weight: bold;
+	margin-bottom: 2rem;
+}
+.editor-styles-wrapper h4,
+.editor-styles-wrapper h5,
+.editor-styles-wrapper h6{
+	font-size: 2.1rem;
+	line-height: 1.7;
+	font-weight: bold;
+	margin-bottom: 2rem;
+}
+
+/* pc */
+@media print, only screen and (min-width: 768px) {
+  .editor-styles-wrapper h1 {
+
+  }
+  .editor-styles-wrapper h2 {
+
+  }
+  .editor-styles-wrapper h3 {
+
+  }
+  .editor-styles-wrapper h4 {
+   
+  }
+}
+
+/* sp */
+@media screen and (max-width: 767px) {
+  .editor-styles-wrapper h2 {
+
+  }
+  .editor-styles-wrapper h3 {
+ 
+  }
+  .editor-styles-wrapper h4 {
+
+  }
+}
+
+/*---- テキスト ----*/
+
+.editor-styles-wrapper .bold {
+  font-weight: bold;
+}
+.editor-styles-wrapper .italic {
+  font-style: italic;
+}
+.editor-styles-wrapper .underline {
+  text-decoration: underline;
+}
+.editor-styles-wrapper .line-through {
+  text-decoration: line-through;
+}
+/* .editor-styles-wrapper a[target='_blank'] {
+  background: url('../images/shared/icon-blank.svg') right center no-repeat;
+  background-size: 12px auto;
+  padding-right: 1em;
+} */
+.editor-styles-wrapper p {
+  margin-bottom: 8rem;
+  /* font-size: 15px; */
+}
+
+
+/* pc */
+@media print, only screen and (min-width: 768px) {
+  .editor-styles-wrapper p {
+    /* margin-bottom: 70px; */
+    margin-bottom: 30px;
+  }
+}
+
+/* sp */
+@media screen and (max-width: 767px) {
+  .editor-styles-wrapper p {
+    /* margin-bottom: 35px; */
+    margin-bottom: 20px;
+  }
+}
+
+/*---- リスト ----*/
+
+.editor-styles-wrapper ul,
+.editor-styles-wrapper ol{
+	margin-bottom: 8rem;
+  list-style: none;
+  margin-left:0;
+  padding-left:0;
+}
+.editor-styles-wrapper ul li,
+.editor-styles-wrapper ol li{
+	padding-left: 1.2em;
+	position: relative;
+	line-height: 1.7;
+	margin-bottom: 1.5rem;
+}
+.editor-styles-wrapper ul li:last-child,
+.editor-styles-wrapper ol li:last-child{
+	margin-bottom: 0;
+}
+.editor-styles-wrapper ul li:before{
+	position: absolute;
+	left: 0;
+	font-weight: 900;
+}
+.editor-styles-wrapper ol li:before{
+	position: absolute;
+	left: 0;
+	font-weight: 600;
+}	
+.editor-styles-wrapper ul li:before{
+	content: "・";
+	top: 0;
+	font-size: 1.8rem;
+	line-height: 1.5;
+}	
+.editor-styles-wrapper ol {
+  counter-reset: count 0;
+}
+.editor-styles-wrapper ol li:before{ 
+	content: counter(count) "";
+	counter-increment: count 1;
+	top: 0.1rem;
+	font-family: 'Prompt';	
+	font-size: 1.5rem;
+}
+
+/* .editor-styles-wrapper ul {
+  font-size: 15px;
+  list-style: disc;
+}
+.editor-styles-wrapper ol {
+  font-size: 15px;
+  list-style: decimal;
+}
+.editor-styles-wrapper li::marker {
+  font-weight: bold;
+  border: 1px #f0f solid;
+} */
+
+/* pc */
+@media print, only screen and (min-width: 768px) {
+  /* .editor-styles-wrapper {
+    font-size: 16px;
+  }
+  .editor-styles-wrapper ul,
+  .editor-styles-wrapper ol {
+    margin: 0 0 70px 1em;
+  }
+  .editor-styles-wrapper li {
+    margin-bottom: 3px;
+  } */
+}
+
+/* sp */
+@media screen and (max-width: 767px) {
+  /* .editor-styles-wrapper ul,
+  .editor-styles-wrapper ol {
+    margin: 0 0 35px 1em;
+  }
+  .editor-styles-wrapper li {
+    margin-bottom: 1px;
+  } */
+}
+
+/*---- ボタン ----*/
+
+.editor-styles-wrapper .wp-block-buttons {
+	margin-bottom: 8rem;
+}
+.editor-styles-wrapper .wp-block-button {
+	margin-bottom: 8rem;
+}
+
+.editor-styles-wrapper .wp-block-button a,
+.editor-styles-wrapper .wp-block-button .wp-block-button__link {
+	background-color: #000;
+	font-weight: bold;	
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #fff;
+	position: relative;
+	border: 0.3rem #000 solid;
+	overflow: hidden;
+	text-decoration: none;
+  margin: 0 auto;
+	text-decoration: none;
+  border-radius: 0;
+  width: 100%;
+  /* max-width: 36rem; */
+  height: 7rem;
+  font-size: 1.6rem;
+  padding: 0 5rem;
+}
+
+/* .editor-styles-wrapper .wp-block-button span {
+  position: relative;
+  z-index: 2;
+} */
+
+.editor-styles-wrapper .wp-block-button a:after,
+.editor-styles-wrapper .wp-block-button .wp-block-button__link:after {
+	content: "";
+	background: url("../images/shared/arrow-white.svg") center center no-repeat;
+	background-size: 100% auto;
+	position: absolute;
+	z-index: 3;
+	top: 50%;
+	transform: translateY(-50%);
+  width: 1.7rem;
+  height: 1.4rem;
+  right: 1.71rem;
+  transition: all .4s linear;
+}
+
+@media print,only screen and (min-width: 768px){ 
+
+}
+
+@media screen and (max-width: 767px){
+	.editor-styles-wrapper .wp-block-button{
+		width: 100%!important;
+	}
+	.editor-styles-wrapper .wp-block-button a{
+		width: 100%!important;
+		height: 6rem!important;
+		font-size: 1.4rem!important;
+	}
+	.editor-styles-wrapper .wp-block-button a:after{
+		width: 1.6rem!important;
+		height: 1.4rem!important;
+		right: 1.4rem!important;
+	}
+
+}
+
+/* 
+.editor-styles-wrapper .wp-block-button a[target='_blank']:after {
+  content: '';
+  display: inline-block;
+  background: url('../images/shared/icon-blank-white.svg') center center
+    no-repeat;
+  background-size: contain;
+  width: 13px;
+  height: 13px;
+  margin-left: 8px;
+  position: relative;
+} */
+
+.is-layout-flex {
+  gap: 1em;
+}
+
+/* ボタンアニメーション */
+/* .editor-styles-wrapper .wp-block-button:before {
+  content: '';
+  position: absolute;
+  background: #aa9488;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transition: transform 0.3s cubic-bezier(0.8, 0, 0.2, 1), opacity 0.2s ease-in;
+  transform: scale(0, 1);
+  transform-origin: left top;
+  border-radius: 3px;
+  opacity: 0;
+}
+.editor-styles-wrapper .wp-block-button:hover:before {
+  transform-origin: left top;
+  transform: scale(1, 1);
+  opacity: 1;
+} */
+
+.wp-block-image{
+  font-size: 1.4rem;
+  line-height: 1.7;
+  margin-bottom: 8rem;
+}
+
+.wp-block-image img{
+  max-width: 100%;
+}

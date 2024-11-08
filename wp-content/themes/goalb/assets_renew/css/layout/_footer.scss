@@ -1,0 +1,274 @@
+.l-footer {
+  background: #707070;
+  margin-top: 12rem;
+  @media screen and (max-width: 767px), print {
+    margin-top: 8rem;
+  }
+  .s-fMenu {
+    background: #212121;
+    display: grid;
+    grid-template-columns: 1fr 1px 1fr;
+    align-items: center;
+    @media screen and (max-width: 767px), print {
+      grid-template-columns: 1fr;
+    }
+    * {
+      color: #fff;
+    }
+    &__el {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 35rem;
+      @media screen and (max-width: 767px), print {
+        height: 21rem;
+        width: 100%;
+        padding-top: 1rem;
+        div {
+          width: 100%;
+        }
+      }
+      &:first-of-type {
+        padding-left: calc(100% - 96rem / 2);
+        padding-right: 12rem;
+        @media screen and (max-width: 767px), print {
+          padding-left: 5rem;
+          padding-right: 3rem;
+        }
+      }
+      &:last-of-type {
+        padding-right: calc(100% - 96rem / 2);
+        padding-left: 12rem;
+        @media screen and (max-width: 767px), print {
+          padding-left: 5rem;
+          padding-right: 3rem;
+        }
+      }
+    }
+
+    .line {
+      height: 26rem;
+      width: 1px;
+      border: none;
+      background: #ffffff52;
+      @media screen and (max-width: 767px), print {
+        width: calc(100% - 6rem);
+        margin-left: auto;
+        margin-right: auto;
+        height: 1px;
+      }
+    }
+
+    &__txt {
+      margin-top: 1rem;
+      line-height: 1.5;
+      font-size: 1.4rem;
+      color: #C6C6C6;
+      @media screen and (max-width: 767px), print {
+        font-size: 1.2rem;
+        margin-top: 1rem;
+      }
+    }
+
+    &__icLink {
+      display: flex;
+      justify-content: flex-end;
+      margin-top: 2rem;
+      @media screen and (max-width: 767px), print {
+        margin-top: 1rem;
+        .c-icLink {
+          justify-content: flex-end !important;
+        }
+      }
+    }
+  }
+
+  .s-fBottom {
+    position: relative;
+    background: #111111;
+    padding-top: 9rem;
+    padding-bottom: 4.3rem;
+    @media screen and (max-width: 767px), print {
+      padding-top: 5rem;
+    }
+
+    * {
+      color: #fff;
+    }
+
+    &__inner {
+      padding-left: calc(50% - 105.4rem / 2);
+      padding-right: calc(50% - 105.4rem / 2);
+      @media screen and (max-width: 767px), print {
+        padding-inline: 5.6rem;
+      }
+    }
+
+    &-separate {
+      display: grid;
+      grid-template-columns: 1fr 1fr; 
+      row-gap: 4.5rem;
+      @media screen and (max-width: 767px), print {
+        grid-template-columns: 1fr;
+        row-gap: 0;
+      }
+
+      @media screen and (max-width: 767px), print {
+        &__tl {
+          order: 1;
+        }
+      }
+
+      &__ttl {
+        line-height: 1.4;
+        font-size: 3rem;
+        font-weight: lighter;
+        @media screen and (max-width: 767px), print {
+          font-size: 1.9rem;
+        }
+      }
+
+      &__link {
+        margin-top: 3.6rem;
+        @media screen and (max-width: 767px), print {
+          margin-top: 3rem;
+        }
+        a {
+          font-size: 2.2rem;
+        }
+      }
+
+      &__tr {
+        display: flex;
+        justify-content: flex-end;
+        @media screen and (max-width: 767px), print {
+          order: 2;
+          justify-content: flex-start;
+          margin-top: 1.5rem;
+        }
+      }
+      &__trInner {
+        display: grid;
+        grid-template-columns: 23rem 1fr;
+        grid-template-rows: repeat(4, 3.7rem);
+        @media screen and (max-width: 767px), print {
+          grid-template-columns: 1fr;
+          grid-template-rows: inherit;
+          gap: 1.5rem;
+        }
+      }
+
+      &__el {
+        &:nth-of-type(2) {
+          grid-column: 1 / 2;
+          grid-row: 2 / 6;
+        }
+      }
+
+      &__majorLink {
+        font-size: 2rem;
+      }
+
+      &__sub {
+        font-size: 1.4rem;
+        line-height: 1.7;
+        a {
+          color: #C6C6C6 !important;
+        }
+      }
+
+      &__sns {
+        display: flex;
+        gap: 2rem;
+        a {
+          font-size: 1.5rem;
+        }
+      }
+
+      &__term {
+        font-size: 1.1rem;
+        display: flex;
+        gap: 1.6rem;
+        margin-top: 1.2rem;
+      }
+
+      @media screen and (max-width: 767px), print {
+        &__bl {
+          order: 4;
+          margin-top: 2.5rem;
+          margin: 2.5rem -2rem 0;
+        }
+      }
+
+      &__cr {
+        margin-top: 2.2rem;
+        font-size: 1.1rem;
+        @media screen and (max-width: 767px), print {
+          text-align: center;
+        }
+      }
+
+      &__br {
+        display: flex;
+        justify-content: flex-end;
+        @media screen and (max-width: 767px), print {
+          order: 3;
+          margin-top: 2rem;
+          display: block;
+        }
+      }
+
+      &__brTtl {
+        font-size: 1.7rem;
+        display: flex;
+        justify-content: center;
+        span {
+          background: #111111;
+          font-weight: normal;
+          padding-inline: 1rem;
+        }
+      }
+
+      &__brLink {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border: 1px solid #707070;
+        height: 8rem;
+        width: 31rem;
+        margin-top: -1rem;
+        @media screen and (max-width: 767px), print {
+          width: 100%;
+
+        }
+        div {
+          line-height: 1.5;
+          a {
+            display: inline-flex;
+            align-items: center;
+            font-size: 1.4rem;
+            gap: 1rem;
+            &::after {
+              content: "";
+              width: 1rem;
+              height: 1rem;
+              background: url(../images/top/ic-arrow.png) no-repeat center center / contain;
+            }
+          }
+        }
+      }
+    }
+    
+    &__logo {
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      opacity: 0.15;
+      display: flex;
+      pointer-events: none;
+      svg {
+        width: 85rem;
+      }
+    }
+  }
+}

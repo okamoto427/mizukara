@@ -1,0 +1,58 @@
+.c-icLink {
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+  gap: 1rem;
+  font-weight: 200 !important;
+  transition: .3s;
+  letter-spacing: 0;
+  svg {
+    width: 3.6rem;
+    overflow: inherit;
+    .transition {
+      transition: .3s;
+    }
+    .fill-w {
+      fill: #ffffff00;
+    }
+  }
+  @media screen and (min-width: 768px), print {
+    &:hover {
+      .fill-w {
+        fill: #ffffff;
+      }
+      .fill-b {
+        fill: #212121;
+      }
+      .stroke-w {
+        stroke: #fff;
+      }
+    }
+  }
+  &.reverse {
+    &, * {
+      mix-blend-mode: inherit;
+    }
+    svg {
+      .stroke-w {
+        stroke: #111111;
+      }
+      .fill-w {
+        fill: #11111100;
+      }
+      .fill-b {
+        fill: #111111;
+      }
+    }
+    @media screen and (min-width: 768px), print {
+      &:hover {
+        .fill-w {
+          fill: #111111;
+        }
+        .fill-b {
+          fill: #ffffff;
+        }
+      }
+    }
+  }
+}

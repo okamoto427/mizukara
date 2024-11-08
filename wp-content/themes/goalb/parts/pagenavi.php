@@ -1,0 +1,1 @@
+<div class="m-pagenavi"><?php echo paginate_links(array('prev_text'=>'','next_text'=>'')); ?></div>

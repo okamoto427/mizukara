@@ -1,0 +1,141 @@
+html {
+  background: #fff;
+  @media screen and (min-width: 1600px) { // vw_outside
+    font-size: calc(160px / #{$pc} * 100);
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 1599px) { // vw_inside
+    font-size: calc(10vw / #{$pc} * 100);
+  }
+  
+  @media screen and (max-width: 767px) { // mobile
+    font-size: calc(10vw / #{$sp} * 100);
+  }
+
+  &.is-hidden {
+    position: fixed;
+    right: 0;
+    left: 0;
+    overflow: hidden;
+  }
+}
+
+body {
+  font-family: "FOT-筑紫ゴシック Pr5 M";
+  font-size: 1.6rem;
+  font-feature-settings: "palt";
+  letter-spacing: 0.05em;
+  margin: 0;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+//text
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div,
+dl,
+dt,
+dd,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+ul,
+ol,
+li {
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  vertical-align: bottom;
+}
+
+figure {
+  padding: 0;
+  margin: 0;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+  appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  appearance: textfield;
+}
+
+.l-main {
+  line-height: 1.2;
+}
+
+svg,
+img {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  div,
+  dl,
+  dt,
+  dd,
+  p {
+    padding: 0;
+    margin: 0;
+  }
+
+  img {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    max-height: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .pc {
+    display: none !important;
+  }
+}
+
+@media  screen and (min-width: 768px) {
+  [href*="tel:"] {
+    pointer-events: none;
+  }
+
+  .sp {
+    display: none !important;
+  }
+}

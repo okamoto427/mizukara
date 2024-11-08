@@ -1,0 +1,8 @@
+@media screen and (min-width: 768px), print {
+  .c-hover-opacity {
+    transition: .3s;
+    &:hover {
+      opacity: .5;
+    }
+  }
+}
