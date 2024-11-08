@@ -556,7 +556,7 @@
           <b class="f-futura"><span class="js-view js-view-border"><em>NEWS</em></span></b>
           <small><div class="js-view js-view-opacity">お知らせ</div></small>
         </h2>
-        <a href="" class="s-news__icLink reverse c-icLink f-futura">
+        <a href="<?php echo home_url('/news/'); ?>" class="s-news__icLink reverse c-icLink f-futura">
           View more
           <?php get_template_part('assets_renew/images/common/ic-three-circle',null,$args); ?>
         </a>

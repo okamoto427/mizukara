@@ -9,10 +9,10 @@
     <div class="about-main">
         <picture>
             <source media="print,only screen and (min-width:768px)"
-                srcset="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/about/main.jpg">
+                srcset="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/about/main-renew.jpg">
             <source media="only screen and (max-width:767px)"
-                srcset="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/about/main-sp.jpg">
-            <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/about/main.jpg" alt="">
+                srcset="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/about/main-renew.jpg">
+            <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/about/main-renew.jpg" alt="">
         </picture>
     </div>
     <div class="m-pagenav__wrapper">
