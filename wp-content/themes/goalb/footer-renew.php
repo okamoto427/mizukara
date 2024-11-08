@@ -8,7 +8,7 @@
           </h3>
           <div class="js-view js-view-opacity">
             <p class="s-fMenu__txt">
-              あなたもMIZUKARAの仲間として働き、<br>
+              あなたもミズカラの仲間として働き、<br>
               お客さまの自分史上最高を引き出していきませんか。
             </p>
           </div>
@@ -97,7 +97,7 @@
                 <a href="<?php echo home_url('/law/'); ?>" class="c-hover-opacity">特定商取引法に基づく表記</a>
                 <a href="<?php echo home_url('/policy/'); ?>" class="c-hover-opacity">利用規約</a>
               </nav>
-              <p class="s-fBottom-separate__cr f-futura">MIZUKARA All rights Reserved</p>
+              <p class="s-fBottom-separate__cr f-futura">ミズカラ All rights Reserved</p>
             </div>
 
             <div class="s-fBottom-separate__br">

@@ -492,7 +492,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="accordion__accordion">
                         <h3 class="accordion__accordion-title">
                             <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets-career_wo/images/question__accordion-title01.png"
-                                alt="MIZUKARAの別サービス、コーチングとの違いは？" width="650" height="122" loading="lazy" />
+                                alt="ミズカラの別サービス、コーチングとの違いは？" width="650" height="122" loading="lazy" />
                         </h3>
                         <div class="accordion__accordion-body">
                             <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets-career_wo/images/question__accordion-body01.png"
@@ -591,7 +591,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
                 <p class="footer__ng">掲載の情報・画像など、すべてのコンテンツの無断複写・転載を禁じます。</p>
                 <p class="footer__adress">東京都港区虎ノ門4-1-1 神谷町トラストタワー 23F</p>
-                <p class="footer__copyright"><big>&copy;</big> 2024 株式会社MIZUKARA. All Rights Reserved.</p>
+                <p class="footer__copyright"><big>&copy;</big> 2024 株式会社ミズカラ. All Rights Reserved.</p>
             </footer>
         </div>
     </main>

@@ -103,7 +103,7 @@
 						<div class="program-icon">PROGRAM 2</div>
 						<div class="program-text01">コーチングスクール（仮）</div>
 						<div class="program-text02">	
-							今まで述べ2000人以上にコーチングを提供してきた実践的なMIZUKARAコーチングを学べる3ヶ月間のプログラムです。<br>※本プログラムは現在準備中です。
+							今まで述べ2000人以上にコーチングを提供してきた実践的なミズカラコーチングを学べる3ヶ月間のプログラムです。<br>※本プログラムは現在準備中です。
 						</div>
 					</div>
 				</div>
@@ -151,7 +151,7 @@
                         alt="" /></div>
                 <div class="m-textimage__texts">
                     <div class="m-textimage__name">
-                        <div class="m-textimage__name01">株式会社MIZUKARA CEO（最高経営責任者）兼 プロコーチ</div>
+                        <div class="m-textimage__name01">株式会社ミズカラ CEO（最高経営責任者）兼 プロコーチ</div>
                         <div class="m-textimage__name02"><span class="japanese">村岡 大樹</span><span class="english">Daiki
                                 Muraoka</span></div>
                     </div>
@@ -161,11 +161,11 @@
                         <p class="mb10">2018年にベンチャーのパーソナルジムにジョイン、2店舗から40店舗の組織拡大にナンバー2として貢献。</p>
                         <p class="mb10">2021年に合同会社LIMITを設立。パーソナルジム10店舗、サウナ、民泊を経営（2024年2月に全て事業譲渡完了）。</p>
                         <p class="mb10">
-                            2022年に株式会社MIZUKARAに参画。赤字事業撤退の意思決定や、人事制度、行動指針の設定、新規事業となるキャリアコーチングの発案、営業チーム組成、スクリプト作成などを行なったのち、CSO（最高戦略責任者）に就任。組織の全体戦略を担う。
+                            2022年に株式会社ミズカラに参画。赤字事業撤退の意思決定や、人事制度、行動指針の設定、新規事業となるキャリアコーチングの発案、営業チーム組成、スクリプト作成などを行なったのち、CSO（最高戦略責任者）に就任。組織の全体戦略を担う。
                         </p>
                         <p class="mb10">2023年に新規事業となる人材研修事業を発足し、自身が講師を務める。立ち上げから半年で受講者1000名を突破。</p>
                         <p class="mb10">
-                            2023年12月、株式会社MIZUKARA代表取締役CEOに就任。<br>現在6期目でメンバー数は200名(業務委託メンバー含む)を超え、受注高30億ペース(昨対比200%成長)で推進中。
+                            2023年12月、株式会社ミズカラ代表取締役CEOに就任。<br>現在6期目でメンバー数は200名(業務委託メンバー含む)を超え、受注高30億ペース(昨対比200%成長)で推進中。
                         </p>
                     </div>
                 </div>
@@ -176,12 +176,12 @@
                         alt="" /></div>
                 <div class="m-textimage__texts">
                     <div class="m-textimage__name">
-                        <!-- <div class="m-textimage__name01">株式会社MIZUKARA CEO（最高経営責任者）兼 プロコーチ</div> -->
+                        <!-- <div class="m-textimage__name01">株式会社ミズカラ CEO（最高経営責任者）兼 プロコーチ</div> -->
                         <div class="m-textimage__name02"><span class="japanese">島田 隆則</span><span
                                 class="english">Takanori Shimada</span></div>
                     </div>
                     <div class="m-textimage__text02 fs14">
-                        ・一般社団法人キャリアコーチング協会 <br class="sp">代表理事<br>・株式会社MIZUKARA 執行役員<br>・Be Different 代表<br>
+                        ・一般社団法人キャリアコーチング協会 <br class="sp">代表理事<br>・株式会社ミズカラ 執行役員<br>・Be Different 代表<br>
                         ・キャリアコーチング 累計300名<br>・セミナー講師 累計8000名<br><br>
                         キャリア経歴：<br>
                         青山学院大学卒業<br>
@@ -190,7 +190,7 @@
                         2019年：パーソナルジム起業<br>
                         2020年：ベストボディジャパン日本1位<br>
                         2021年：(株)Rascal's 執行役員<br>
-                        2022年：(株)MIZUKARA 入社<br>
+                        2022年：(株)ミズカラ 入社<br>
                         2023年：一般社団法人キャリアコーチング協会代表理事
                         <br><br>
                         「全ての人に可能性がある」
@@ -299,20 +299,20 @@
                 <div class="m-about__title">
                     <h2 class="m-title01"><span class="english"
                             data-appear-animation="blackTapeTextRotated">COMPANY</span><span class="japanese"
-                            data-appear-animation="blackTapeTextRotated">MIZUKARAについて</span></h2>
+                            data-appear-animation="blackTapeTextRotated">ミズカラについて</span></h2>
                 </div>
                 <div class="m-about__texts">
                     <div class="m-about__text06 -traning" data-appear-animation="blackTapeText">
-                        全ての人に可能性があるを体現する「MIZUKARA」が<br class="pc">受講者の持って生まれた可能性を引き出します</div>
+                        全ての人に可能性があるを体現する「ミズカラ」が<br class="pc">受講者の持って生まれた可能性を引き出します</div>
                     <div class="m-about__text04" data-appear-animation="fadeIn">
-                        MIZUKARAは累計2,000名以上へコーチング実績を持つコーチングプラットフォーム。<br>
+                        ミズカラは累計2,000名以上へコーチング実績を持つコーチングプラットフォーム。<br>
                         有名企業出身者やSNSフォロワー数20万人を超える経営者など、自らも挑戦を続けるコーチが多数在籍しています。<br>
                         経験豊富なコーチのもと、万全のサポート体制であなたのレベルアップを応援します。
                     </div>
                     <div class="m-buttonMore mt60">
                         <a href="<?php echo home_url(); ?>/about/">
                             <span class="english">SEE MORE</span>
-                            <span class="japanese">MIZUKARAについて</span>
+                            <span class="japanese">ミズカラについて</span>
                         </a>
                     </div>
                 </div>

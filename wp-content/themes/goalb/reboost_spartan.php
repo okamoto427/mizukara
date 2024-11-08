@@ -30,7 +30,7 @@
     ?>
 <header id="header" class="siteHeader">
   <p class="siteHeader__logo">
-    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shared/logo.svg" alt="MIZUKARA" width="118" height="25">
+    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shared/logo.svg" alt="ミズカラ" width="118" height="25">
   </p>
   <div class="keyVisual">
     <div class="keyVisual__inner">
@@ -203,7 +203,7 @@
 
 <section class="section is-cardslide">
   <div class="wrap">
-    <h2 class="headingSection">この講座を受けた<br>MIZUKARAメンバーの声</h2>
+    <h2 class="headingSection">この講座を受けた<br>ミズカラメンバーの声</h2>
     <div class="swiper-container js-cardSlide2">
       <div class="swiper-wrapper">
         <!-- Slide Item -->
@@ -366,7 +366,7 @@
         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_goalb_03.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_goalb_03.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_goalb_03@2x.jpg 2x" alt="心の専門家だからこそ本来の自分を取り戻すサポートができます" width="681" height="444" loading="lazy" decoding="async">
       </div>
       <div class="boxWideSplit__body">
-        <p class="p"><span class="u-bold">私たち（MIZUKARAメンバー）はコーチ</span>という仕事をしています。</p>
+        <p class="p"><span class="u-bold">私たち（ミズカラメンバー）はコーチ</span>という仕事をしています。</p>
         <p class="p">言い換えたら<span class="u-bold">心を扱うプロです。</span></p>
         <p class="p">これまで<span class="u-bold">何万人もの方と対話して、心の部分に変化を起こすことで、人生に本質的変化を起こすお手伝いをしてきました。</span></p>
         <p class="p">そして<span class="u-bold">心（在り方）を整えて本来の自分を取り戻すことが、日本人を強くする（自分の理想の未来を実現する力）に繋がる</span>ことを確信しています。</p>
@@ -547,16 +547,16 @@
   <div class="sectionCoach__inner">
     <div class="sectionCoach__dmy"></div>
     <div class="sectionCoach__conte">
-      <p class="sectionCoach__pos">株式会社MIZUKARA <br class="u-br_sp">CSO（最高戦略責任者）兼 プロコーチ</p>
+      <p class="sectionCoach__pos">株式会社ミズカラ <br class="u-br_sp">CSO（最高戦略責任者）兼 プロコーチ</p>
       <div class="sectionCoach__prf">
         <p class="sectionCoach__name">村岡&nbsp;大樹</p>
         <p class="sectionCoach__eng">Daiki&nbsp;Muraoka</p>
       </div>
       <div class="sectionCoach__txt">
-        <p class="p">株式会社MIZUKARAでCSOとして働きながら、代表を務める合同会社LIMITにて、パーソナルジムを10店舗/民泊1棟を経営。</p>
+        <p class="p">株式会社ミズカラでCSOとして働きながら、代表を務める合同会社LIMITにて、パーソナルジムを10店舗/民泊1棟を経営。</p>
         <p class="p">20代にコーチングと出会い、その後心理学、脳科学、認知科学を学ぶ。プロコーチ歴8年。その間に行っていた自己を解放するセミナーは延べ500名以上が受講。</p>
         <p class="p">『決断を引き出すコーチング』を300名以上に行ってきた実績を有する。現在約60万円の個人向けコーチングは新規受付を停止中。</p>
-        <p>現在は自身の会社を経営しながら、MIZUKARAのCSOを務める。自身の能力を抑えていた信念を取り払うことで、理想的な人生を実現している。</p>
+        <p>現在は自身の会社を経営しながら、ミズカラのCSOを務める。自身の能力を抑えていた信念を取り払うことで、理想的な人生を実現している。</p>
       </div>
     </div>
   </div>
@@ -564,13 +564,13 @@
 
 <section class="section">
   <div class="wrap">
-    <h2 class="headingSection">あなたの進化をサポートする<br>MIZUKARAメンバー陣</h2>
+    <h2 class="headingSection">あなたの進化をサポートする<br>ミズカラメンバー陣</h2>
     <div class="boxMedia">
       <div class="boxMedia__img">
         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_member.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_member.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_member@2x.jpg 2x" width="544" height="303" loading="lazy" decoding="async">
       </div>
       <div class="boxMedia__conte">
-        <p class="p">当日は、講師の村岡だけでなく、<br class="u-br_pc">MIZUKARAメンバー複数人で<span class="u-bold">あなたの人生を前進させます。</span><br>※メンバー全員での参加ではありません。</p>
+        <p class="p">当日は、講師の村岡だけでなく、<br class="u-br_pc">ミズカラメンバー複数人で<span class="u-bold">あなたの人生を前進させます。</span><br>※メンバー全員での参加ではありません。</p>
         <p>コーチとして第一線で活躍している人たちの出会い、新しい仲間との出会い、多くの刺激を受ける機会にもなりますので、ぜひ楽しみにしていてください。</p>
       </div>
     </div>
@@ -829,27 +829,27 @@
 
 <section class="section">
   <div class="wrap">
-    <h2 class="headingSection">株式会社MIZUKARAについて</h2>
+    <h2 class="headingSection">株式会社ミズカラについて</h2>
     <div class="boxAbout">
       <div class="boxAbout__item is-01">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_01.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_01.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_01@2x.jpg 2x" alt="株式会社MIZUKARAについて" width="435" height="232" loading="lazy" decoding="async">
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_01.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_01.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_01@2x.jpg 2x" alt="株式会社ミズカラについて" width="435" height="232" loading="lazy" decoding="async">
       </div>
       <div class="boxAbout__item is-02">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_02.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_02.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_02@2x.jpg 2x" alt="株式会社MIZUKARAについて" width="146" height="232" loading="lazy" decoding="async">
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_02.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_02.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_02@2x.jpg 2x" alt="株式会社ミズカラについて" width="146" height="232" loading="lazy" decoding="async">
       </div>
       <div class="boxAbout__item is-03">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_03.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_03.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_03@2x.jpg 2x" alt="株式会社MIZUKARAについて" width="157" height="233" loading="lazy" decoding="async">
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_03.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_03.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_03@2x.jpg 2x" alt="株式会社ミズカラについて" width="157" height="233" loading="lazy" decoding="async">
         <p class="boxAbout__note">著書１万部突破<br><span>※2022年5月時点</span></p>
       </div>
       <div class="boxAbout__item is-04">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_04.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_04.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_04@2x.jpg 2x" alt="株式会社MIZUKARAについて" width="355" height="232" loading="lazy" decoding="async">
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_04.jpg" srcset="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_04.jpg 1x,<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_about_04@2x.jpg 2x" alt="株式会社ミズカラについて" width="355" height="232" loading="lazy" decoding="async">
         <p class="boxAbout__note">Youtube登録者12万人以上<br><span>※2022年5月時点</span></p>
       </div>
     </div>
     <p class="p textMd">どんな風にも生きることができるこの世界。</p>
-    <p class="p textMd">言い訳を並べて自分の可能性に蓋をしない。弊社MIZUKARAは、メンバーとクライアント様の生き様を通して、「全ての人に可能性がある」を体現し続けます。</p>
+    <p class="p textMd">言い訳を並べて自分の可能性に蓋をしない。弊社ミズカラは、メンバーとクライアント様の生き様を通して、「全ての人に可能性がある」を体現し続けます。</p>
     <p class="p textMd">代表はYoutube登録者12万人以上。AKIOBLOGとしても活動する中川晃雄。自身の「世界44か国での旅」「63kgから83kgへの肉体改造」「月収10倍」などの挑戦を通して「全ての人に可能性がある」という事実を知りました。</p>
-    <p class="p textMd">これらの体験から、「身体と心が変われば人生が変わる」この核心をもとに「フィットネス」と「コーチング」の事業を展開する株式会社MIZUKARAを2019年に創業。<br>「Body（身体）とBe（心）を改革しGOALを達成する」これがMIZUKARAの由来です。</p>
+    <p class="p textMd">これらの体験から、「身体と心が変われば人生が変わる」この核心をもとに「フィットネス」と「コーチング」の事業を展開する株式会社ミズカラを2019年に創業。<br>「Body（身体）とBe（心）を改革しGOALを達成する」これがミズカラの由来です。</p>
     <p class="textMd">強くエネルギーに満ち溢れた身体をつくり、高いGOALを設定することで効果的に現実を作り続けることで「全ての人に可能性がある」を体現し、最高の人生を生きる人を増やします。</p>
   </div>
 </section>
@@ -862,7 +862,7 @@
       <dd class="listFaq__a">
         <div class="listFaq__aInner">
           <p class="p u-bold">不可です。</p>
-          <p>MIZUKARAも一切撮影を行いません。ご自身の辛い過去、人に話せなかった内容をお話になる場面もある方がいます。ご自身に最大限向き合うために、収録等は行うことができません。</p>
+          <p>ミズカラも一切撮影を行いません。ご自身の辛い過去、人に話せなかった内容をお話になる場面もある方がいます。ご自身に最大限向き合うために、収録等は行うことができません。</p>
         </div>
       </dd>
     </dl>

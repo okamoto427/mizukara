@@ -7,7 +7,7 @@
       <img src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/common/logo-txt.svg" alt="" class="l-header-drawer__logo">
       <nav class="l-header-drawer__nav">
         <div class="l-header-drawer__el">
-          <a href="<?php echo home_url('/about/'); ?>" class="c-hover-opacity">MIZUKARAについて</a>
+          <a href="<?php echo home_url('/about/'); ?>" class="c-hover-opacity">ミズカラについて</a>
         </div>
         <div class="l-header-drawer__el">
           <a href="" style="pointer-events: none;">サービス・事業</a>
@@ -49,13 +49,13 @@
       </span>
     </div>
     <nav class="l-header__nav pc">
-      <a href="<?php echo home_url('/about/'); ?>" class="l-header__link c-hover-opacity">MIZUKARAについて</a>
+      <a href="<?php echo home_url('/about/'); ?>" class="l-header__link c-hover-opacity">ミズカラについて</a>
       <a class="l-header__link js-megaTrigger">サービス・事業</a>
       <a href="<?php echo home_url('/member/'); ?>" class="l-header__link c-hover-opacity">メンバー</a>
       <a href="<?php echo home_url('/recruit/'); ?>" class="l-header__link c-hover-opacity">採用</a>
       <a href="<?php echo home_url('/news/'); ?>" class="l-header__link c-hover-opacity">お知らせ</a>
     </nav>
-    <p class="l-header__cr">MIZUKARA All rights Reserved</p>
+    <p class="l-header__cr">ミズカラ All rights Reserved</p>
   </header>
 
 

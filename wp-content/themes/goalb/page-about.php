@@ -4,7 +4,7 @@
     <?php get_template_part('tapes/title'); ?>
     <?php get_template_part('tapes/bottom'); ?>
     <div class="m-pageTitle">
-        <h1><span class="japanese">MIZUKARAについて</span><span class="english">ABOUT</span></h1>
+        <h1><span class="japanese">ミズカラについて</span><span class="english">ABOUT</span></h1>
     </div>
     <div class="about-main">
         <picture>
@@ -60,7 +60,7 @@
                 </div>
                 <div class="m-imagetext__texts">
                     <!-- <h2 class="m-title02 -spcenter m-title02-spirits goalb-mind" id="spirits"><span
-                            class="english">MIZUKARA
+                            class="english">ミズカラ
                             MIND</span></h2>
                     <ul class="about-spirits__list">
                         <li><span class="about-spirits__text">自らの可能性を信じる</span></li>
@@ -124,8 +124,8 @@
                         <br>どんな人生を生きていれば幸せな人生なのか。<br>自らの人生にどんな「GOAL」を立てるのか。<br><br>そのGOALを達成するためには<br>
                         どんな「 B ～Body(身体)、Being(在り方)、Business(仕事)～」でありたいのか。<br><br>
                         私たちは、全ての人に最高の一日を生きる可能性があると信じています。<br><br>
-                        あなたの最高の一日を生きるための「MIZUKARA」はなんでしょうか。<br>
-                        MIZUKARAは、あなたのGOALを実現するためのきっかけで在り続けます。
+                        あなたの最高の一日を生きるための「ミズカラ」はなんでしょうか。<br>
+                        ミズカラは、あなたのGOALを実現するためのきっかけで在り続けます。
                     </p>
                 </div>
             </div>

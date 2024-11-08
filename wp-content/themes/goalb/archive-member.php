@@ -1,5 +1,5 @@
 <?php get_header(null,[
-  'description' => 'MIZUKARAのメンバーをご紹介しています。'
+  'description' => 'ミズカラのメンバーをご紹介しています。'
 ]); ?>
 	
 <div class="l-container">

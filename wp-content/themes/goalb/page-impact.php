@@ -588,7 +588,7 @@ $posts = get_posts([
             <div data-appear-animation="fadeIn">
                 <h3 class="m-trial__heading">CONTACT</h3>
                 <div class="m-trial__text01">無料相談<br>申し込みフォーム</div>
-                <div class="m-trial__text02">MIZUKARA独自の法人向け組織コーチングプログラムであなたの組織の課題を解決します。<br>まずは無料相談申し込みフォームよりお問い合わせください。
+                <div class="m-trial__text02">ミズカラ独自の法人向け組織コーチングプログラムであなたの組織の課題を解決します。<br>まずは無料相談申し込みフォームよりお問い合わせください。
                 </div>
                 <div class="m-button -center"><a href="<?php echo esc_url( home_url() ); ?>/contact/"><span
                             class="m-button__in">無料相談に申し込む</span></a></div>

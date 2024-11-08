@@ -233,7 +233,7 @@ gtag('config', 'AW-598705106');
                     <div class="about__main">
                         <h2 class="about__title wow animated fadeInUp" data-wow-delay="1s">
                             キャリスピは<br>
-                            株式会社MIZUKARAが運営する<br>仕事（キャリア）に特化したコーチングサービスです
+                            株式会社ミズカラが運営する<br>仕事（キャリア）に特化したコーチングサービスです
                         </h2>
                         <div class="about__img wow animated fadeInUp u-mobile" data-wow-delay=".5s">
                             <picture>
@@ -624,7 +624,7 @@ gtag('config', 'AW-598705106');
             <a href="https://goal-b.co.jp/privacy/" target="_blank" class="footer__link">プライバシーポリシー</a>
             <a href="https://goal-b.co.jp/about/" target="_blank" class="footer__link">会社概要</a>
         </div>
-        <p class="footer__copyright"><span>&copy;</span> 2024 MIZUKARA All rights Reserved</p>
+        <p class="footer__copyright"><span>&copy;</span> 2024 ミズカラ All rights Reserved</p>
     </footer>
     <script>
     new WOW().init();

@@ -171,7 +171,7 @@
           <span class="js-view js-view-border bw"><em>すべての人が自分の可能性を</em></span><br>
           <span class="js-view js-view-border bw"><em>見つけ出す時代へ</em></span>
         </h2>
-        <h3><div class="js-view js-view-opacity jcc">MIZUKARAが◯◯◯◯◯へ◯◯◯◯◯です。</div></h3>
+        <h3><div class="js-view js-view-opacity jcc">ミズカラが◯◯◯◯◯へ◯◯◯◯◯です。</div></h3>
       </div>
     </div>
   
@@ -184,7 +184,7 @@
     <div class="c-inner">
       <h2 class="s-business__ttl c-ttlEnJp">
         <b class="f-futura"><span class="js-view js-view-border"><em>OUR BUSINESS</em></span></b>
-        <small><div class="js-view js-view-opacity">MIZUKARAが提供するサービス・事業</div></small>
+        <small><div class="js-view js-view-opacity">ミズカラが提供するサービス・事業</div></small>
       </h2>
       <div class="js-view js-view-opacity-top">
         <div class="s-business__linkWrap">
@@ -236,7 +236,7 @@
     <div class="c-inner">
       <h2 class="s-member__ttl c-ttlEnJp">
         <b class="f-futura"><span class="js-view js-view-border"><em>MEMBER</em></span></b>
-        <small><div class="js-view js-view-opacity">MIZUKARAのメンバー紹介</div></small>
+        <small><div class="js-view js-view-opacity">ミズカラのメンバー紹介</div></small>
       </h2>
     </div>
     <div class="js-view js-view-opacity-top" style="overflow: hidden;">

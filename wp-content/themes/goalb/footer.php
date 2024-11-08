@@ -3,7 +3,7 @@
         <div class="l-footer__left">
             <div class="l-footer__logo sp"><a href="<?php echo esc_url( home_url() ); ?>/"><img loading="lazy"
                         src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white-renew.svg"
-                        alt="MIZUKARA" /></a></div>
+                        alt="ミズカラ" /></a></div>
             <div class="nav-footer">
                 <div class="nav-heading">サービス・事業</div>
                 <div class="nav-row -top">
@@ -23,7 +23,7 @@
                 <div class="nav-heading">企業情報</div>
                 <div class="nav-row -top">
                     <ul class="nav-link">
-                        <li><a href="<?php echo esc_url( home_url() ); ?>/about/">MIZUKARAについて</a></li>
+                        <li><a href="<?php echo esc_url( home_url() ); ?>/about/">ミズカラについて</a></li>
                         <li><a href="<?php echo esc_url( home_url() ); ?>/member/">メンバー</a></li>
                     </ul>
                     <ul class="nav-link">
@@ -49,7 +49,7 @@
         <div class="l-footer__right">
             <div class="l-footer__logo pc"><a href="<?php echo esc_url( home_url() ); ?>/"><img loading="lazy"
                         src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white-renew.svg"
-                        alt="MIZUKARA" /></a></div>
+                        alt="ミズカラ" /></a></div>
             <ul class="l-footer__social">
                 <li><a href="https://youtube.com/@GOALB" target="_blank"><img loading="lazy"
                             src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/icon-youtube-white.svg"
@@ -58,7 +58,7 @@
                             src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/icon-twitter-white.svg"
                             alt="" /></a></li>
             </ul>
-            <p class="l-footer__copy">2024 MIZUKARA All rights Reserved</p>
+            <p class="l-footer__copy">2024 ミズカラ All rights Reserved</p>
         </div>
     </div>
 

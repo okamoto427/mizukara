@@ -652,7 +652,7 @@ gtag('config', 'AW-598705106');
             <a href="https://goal-b.co.jp/privacy/" target="_blank" class="footer__link">プライバシーポリシー</a>
             <a href="https://goal-b.co.jp/about/" target="_blank" class="footer__link">会社概要</a>
         </div>
-        <p class="footer__copyright"><span>&copy;</span> 2024 MIZUKARA All rights Reserved</p>
+        <p class="footer__copyright"><span>&copy;</span> 2024 ミズカラ All rights Reserved</p>
     </footer>
     <script>
     new WOW().init();

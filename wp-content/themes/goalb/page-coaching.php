@@ -82,7 +82,7 @@
             <li><a href="#ourteam"><span class="m-pagenav__in"><span class="english">OUR TEAM</span><span
                             class="japanese">コーチ一覧</span></span></a></li>
             <li><a href="#point"><span class="m-pagenav__in"><span class="english">POINT</span><span
-                            class="japanese">MIZUKARAの特徴</span></span></a></li>
+                            class="japanese">ミズカラの特徴</span></span></a></li>
             <li><a href="#flow"><span class="m-pagenav__in"><span class="english">FLOW</span><span
                             class="japanese">サービスの流れ</span></span></a></li>
             <li><a href="#price"><span class="m-pagenav__in"><span class="english">PRICE</span><span
@@ -323,7 +323,7 @@
                 <div class="tape-black m-point__bg03" data-appear-animation="blackTape1"></div>
             </div>
             <h2 class="m-title02 -center mb20" id="point"><span class="english">POINT</span><span
-                    class="japanese">MIZUKARAの特徴</span></h2>
+                    class="japanese">ミズカラの特徴</span></h2>
             <p class="m-textCenter">他社の<br class="sp">エグゼクティブコーチング<br class="sp">との違い</p>
             <div class="m-point__items">
                 <div class="m-point__item">
@@ -369,7 +369,7 @@
             <div data-appear-animation="fadeIn">
                 <h3 class="m-trial__heading">TRIAL</h3>
                      <div class="m-trial__text01">エグゼクティブコーチング<br>サービス体験<span>初回体験5,500円</span></div>
-                <div class="m-trial__text02">MIZUKARAのコーチングがあなたに合うか、<br class="sp">実際のコーチングに近い形で体験が可能です。<br>
+                <div class="m-trial__text02">ミズカラのコーチングがあなたに合うか、<br class="sp">実際のコーチングに近い形で体験が可能です。<br>
                     コーチとの対話を通して、あなただけの可能性を。<br class="sp">ゴールを見つけ出しましょう。</div>
                 <div class="m-button -center"><a
                         href="https://liff-gateway.lineml.jp/landing?follow=%40goalb&lp=GCZ4TM&liff_id=1655676552-2oDwbxkW"><span

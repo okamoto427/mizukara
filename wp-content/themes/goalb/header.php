@@ -20,11 +20,11 @@ if(is_singular() && get_post_meta($post->ID , 'noindex' , true)){
             <<?php echo $divOrH1; ?> class="l-header__logo" itemscope itemtype="http://schema.org/Organization"><a
                     href="<?php echo esc_url( home_url() ); ?>/" itemprop="url"><img itemprop="logo"
                         src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-renew.svg"
-                        alt="MIZUKARA" /></a></<?php echo $divOrH1; ?>>
+                        alt="ミズカラ" /></a></<?php echo $divOrH1; ?>>
             <nav class="nav-global pc">
                 <ul>
                     <li><a href="<?php echo esc_url( home_url() ); ?>/about/"><span class="english">ABOUT</span><span
-                                class="japanese">MIZUKARAについて</span></a></li>
+                                class="japanese">ミズカラについて</span></a></li>
                     <li><span class="nav-business"><span class="english">BUSINESS</span><span
                                 class="japanese">事業内容</span></span>
                         <div class="nav-global__in">
@@ -70,7 +70,7 @@ if(is_singular() && get_post_meta($post->ID , 'noindex' , true)){
             <div class="l-header__menus">
                 <div class="l-header__logoIn"><a href="<?php echo esc_url( home_url() ); ?>/"><img
                             src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white.svg"
-                            alt="MIZUKARA" /></a></div>
+                            alt="ミズカラ" /></a></div>
                 <nav class="nav-global">
                     <div class="nav-heading">サービス・事業</div>
                     <div class="nav-row">
@@ -92,7 +92,7 @@ if(is_singular() && get_post_meta($post->ID , 'noindex' , true)){
                     <div class="nav-heading">企業情報</div>
                     <div class="nav-row">
                         <ul class="nav-link">
-                            <li><a href="<?php echo esc_url( home_url() ); ?>/about/">MIZUKARAについて</a></li>
+                            <li><a href="<?php echo esc_url( home_url() ); ?>/about/">ミズカラについて</a></li>
                             <li><a href="<?php echo esc_url( home_url() ); ?>/member/">メンバー</a></li>
                             <li><a href="<?php echo esc_url( home_url() ); ?>/news/">お知らせ</a></li>
                         </ul>
@@ -102,7 +102,7 @@ if(is_singular() && get_post_meta($post->ID , 'noindex' , true)){
                             </li>
                         </ul>
                         <ul class="nav-link">
-                            <li><a href="https://goal-b.co.jp/magazine/" target="_blank">MIZUKARAマガジン</a></li>
+                            <li><a href="https://goal-b.co.jp/magazine/" target="_blank">ミズカラマガジン</a></li>
                             <li><a href="<?php echo esc_url( home_url() ); ?>/contact/">お問い合わせフォーム</a></li>
                         </ul>
                     </div>

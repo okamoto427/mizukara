@@ -26,7 +26,7 @@
     ?>
 <header id="header" class="siteHeader">
     <p class="siteHeader__logo">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shared/logo.svg" alt="MIZUKARA" width="118"
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shared/logo.svg" alt="ミズカラ" width="118"
             height="25">
     </p>
     <div class="keyVisual">
@@ -67,7 +67,7 @@
 </section>
 <section class="section is-cardslide">
     <div class="wrap">
-        <h2 class="headingSection">この講座を受けた<br>MIZUKARAメンバーの声</h2>
+        <h2 class="headingSection">この講座を受けた<br>ミズカラメンバーの声</h2>
         <div class="swiper-container js-cardSlide2">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
@@ -493,7 +493,7 @@
                     alt="心の専門家だからこそ本来の自分を取り戻すサポートができます" width="681" height="444" loading="lazy" decoding="async">
             </div>
             <div class="boxWideSplit__body">
-                <p class="p"><span class="u-bold">私たち（MIZUKARAメンバー）はコーチ</span>という仕事をしています。</p>
+                <p class="p"><span class="u-bold">私たち（ミズカラメンバー）はコーチ</span>という仕事をしています。</p>
                 <p class="p">言い換えたら<span class="u-bold">心を扱うプロです。</span></p>
                 <p class="p">これまで<span class="u-bold">何万人もの方と対話して、心の部分に変化を起こすことで、人生に本質的変化を起こすお手伝いをしてきました。</span></p>
                 <p class="p">そして<span
@@ -706,7 +706,7 @@
     <div class="sectionCoach__inner">
         <div class="sectionCoach__dmy"></div>
         <div class="sectionCoach__conte">
-            <p class="sectionCoach__pos">株式会社MIZUKARA <br class="u-br_sp">CEO代表取締役 兼 エグゼクティブコーチ</p>
+            <p class="sectionCoach__pos">株式会社ミズカラ <br class="u-br_sp">CEO代表取締役 兼 エグゼクティブコーチ</p>
             <div class="sectionCoach__prf">
                 <p class="sectionCoach__name">村岡&nbsp;大樹</p>
                 <p class="sectionCoach__eng">Daiki&nbsp;Muraoka</p>
@@ -717,10 +717,10 @@
                 <p class="p">2018年にベンチャーのパーソナルジムにジョイン、2店舗から40店舗の組織拡大にナンバー2として貢献。</p>
                 <p class="p">2021年に合同会社LIMITを設立。パーソナルジム10店舗、サウナ、民泊を経営（2024年2月に全て事業譲渡完了）。</p>
                 <p class="p">
-                    2022年に株式会社MIZUKARAに参画。赤字事業撤退の意思決定や、人事制度、行動指針の設定、新規事業となるキャリアコーチングの発案、営業チーム組成、スクリプト作成などを行なったのち、CSO（最高戦略責任者）に就任。組織の全体戦略を担う。
+                    2022年に株式会社ミズカラに参画。赤字事業撤退の意思決定や、人事制度、行動指針の設定、新規事業となるキャリアコーチングの発案、営業チーム組成、スクリプト作成などを行なったのち、CSO（最高戦略責任者）に就任。組織の全体戦略を担う。
                 </p>
                 <p class="p">2023年に新規事業となる人材研修事業を発足し、自身が講師を務める。立ち上げから半年で受講者1000名を突破。</p>
-                <p class="p">2023年12月、株式会社MIZUKARA代表取締役CEOに就任。</p>
+                <p class="p">2023年12月、株式会社ミズカラ代表取締役CEOに就任。</p>
                 <p class="p">自身の能力を抑えていた信念を取り払うことで、理想的な人生を実現している。</p>
                 <div>
                 </div>
@@ -729,7 +729,7 @@
 
 <section class="section">
     <div class="wrap">
-        <h2 class="headingSection">あなたの進化をサポートする<br>MIZUKARAサポートコーチ</h2>
+        <h2 class="headingSection">あなたの進化をサポートする<br>ミズカラサポートコーチ</h2>
         <div class="boxMedia">
             <div class="boxMedia__img">
                 <img src="<?php echo get_template_directory_uri(); ?>/assets/images/reboost/img_member.jpg"
@@ -737,7 +737,7 @@
                     width="544" height="303" loading="lazy" decoding="async">
             </div>
             <div class="boxMedia__conte">
-                <p class="p">当日は、講師の村岡だけでなく、<br class="u-br_pc">MIZUKARAコーチ複数人で<span
+                <p class="p">当日は、講師の村岡だけでなく、<br class="u-br_pc">ミズカラコーチ複数人で<span
                         class="u-bold">あなたの人生を前進させます。</span><br>※メンバー全員での参加ではありません。</p>
                 <p>コーチとして第一線で活躍している人たちの出会い、新しい仲間との出会い、多くの刺激を受ける機会にもなりますので、ぜひ楽しみにしていてください。</p>
             </div>
@@ -941,7 +941,7 @@
                             <h3 class="boxStickArticle__heading">受講した理由</h3>
                             <p class="p">自分がコンサルを行う上でお客様に寄り添うとか<br class="u-br_pc">気持ちの部分にフォーカスできたらいいなと思っていました。</p>
                             <p class="p">そのヒントが得られるかなという想いが1つ。</p>
-                            <p>もう1つは<span class="u-bold">MIZUKARAさんのYouTubeを見て<br
+                            <p>もう1つは<span class="u-bold">ミズカラさんのYouTubeを見て<br
                                         class="u-br_pc">良いチーム、良い会社さんだなと思って参加しようと思いました。</span></p>
                         </div>
                         <div class="u-stackLg">
@@ -1021,12 +1021,12 @@
 
                         <div class="u-stackLg">
                             <h3 class="boxStickArticle__heading">受講した理由</h3>
-                            <p class="p">私の周りの数名がMIZUKARAさんのことがすごい好きで<br class="u-br_pc">私のXのタイムラインにもよく出てきてたんです。</p>
-                            <p class="p">それでMIZUKARAさんのことを知っていくようになって<br
+                            <p class="p">私の周りの数名がミズカラさんのことがすごい好きで<br class="u-br_pc">私のXのタイムラインにもよく出てきてたんです。</p>
+                            <p class="p">それでミズカラさんのことを知っていくようになって<br
                                     class="u-br_pc">LINEに登録したらReboostのオンライン体験会の案内が届きました。</p>
                             <p class="p">Reboost講師の村岡さんがお話しされる内容で興味を持って<br
                                     class="u-br_pc">村岡さんが面白いのなんのって、この人やばいって思ったんです。</p>
-                            <p class="p">MIZUKARAさんに興味があったし行ってみたいな、と。</p>
+                            <p class="p">ミズカラさんに興味があったし行ってみたいな、と。</p>
                             <p class="p">むしろ内容があまり明かされてなかったからこそ、<br class="u-br_pc">これは行かないと分からんでしょうと思い切って申し込みました。</p>
                             <p class="p">あとは<span class="u-bold">2020年度はコロナの影響で会社の売上が何千万か下がってしまったんですけど<br
                                         class="u-br_pc">その後は持ち直していって最高収益を達成していて<br
@@ -1153,7 +1153,7 @@
                             <p class="p">内容は知らない方がいいので多くは語れないんですけど<br class="u-br_pc">自分が今までやってきたことと向き合いの質が全然違う、方向性が違う。
                             </p>
                             <p class="p">学ぶとか、外側からの知識ってほぼいらないんだなって、すごい衝撃があって。</p>
-                            <p class="p">自分自身もコーチングに近いライフコーチングを、<br class="u-br_pc">MIZUKARAが提供しているものとはちょっと違うと思うのですが、<br
+                            <p class="p">自分自身もコーチングに近いライフコーチングを、<br class="u-br_pc">ミズカラが提供しているものとはちょっと違うと思うのですが、<br
                                     class="u-br_pc">その組み立てをしていく中でのヒントもすごくありました。</p>
                             <p class="p">私が逆にライフコーチングをリリースしきれなかったのは<br class="u-br_pc">頭でっかちなものを提供しても意味がないというのがありました。
                             </p>
@@ -1331,13 +1331,13 @@
 
 <section class="section">
     <div class="wrap">
-        <h2 class="headingSection">株式会社MIZUKARAについて</h2>
+        <h2 class="headingSection">株式会社ミズカラについて</h2>
         <div class="boxAbout">
         </div>
         <p class="p textMd">どんな風にも生きることができるこの世界。</p>
-        <p class="p textMd">言い訳を並べて自分の可能性に蓋をしない。弊社MIZUKARAは、メンバーとクライアント様の生き様を通して、「全ての人に可能性がある」を体現し続けます。</p>
+        <p class="p textMd">言い訳を並べて自分の可能性に蓋をしない。弊社ミズカラは、メンバーとクライアント様の生き様を通して、「全ての人に可能性がある」を体現し続けます。</p>
         <p class="p textMd">
-            「身体と心が変われば人生が変わる」この核心をもとに「フィットネス」と「コーチング」の事業を展開する株式会社MIZUKARAを2019年に創業。<br>「Body（身体）とBe（心）を改革しGOALを達成する」これがMIZUKARAの由来です。
+            「身体と心が変われば人生が変わる」この核心をもとに「フィットネス」と「コーチング」の事業を展開する株式会社ミズカラを2019年に創業。<br>「Body（身体）とBe（心）を改革しGOALを達成する」これがミズカラの由来です。
         </p>
         <p class="textMd">強くエネルギーに満ち溢れた身体をつくり、高いGOALを設定することで効果的に現実を作り続けることで「全ての人に可能性がある」を体現し、最高の人生を生きる人を増やします。</p>
     </div>
@@ -1351,7 +1351,7 @@
             <dd class="listFaq__a">
                 <div class="listFaq__aInner">
                     <p class="p u-bold">不可です。</p>
-                    <p>MIZUKARAも一切撮影を行いません。ご自身の辛い過去、人に話せなかった内容をお話になる場面もある方がいます。ご自身に最大限向き合うために、収録等は行うことができません。</p>
+                    <p>ミズカラも一切撮影を行いません。ご自身の辛い過去、人に話せなかった内容をお話になる場面もある方がいます。ご自身に最大限向き合うために、収録等は行うことができません。</p>
                 </div>
             </dd>
         </dl>
