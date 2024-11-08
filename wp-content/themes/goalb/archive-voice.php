@@ -1,5 +1,5 @@
 <?php get_header(null,[
-  'description' => 'GOAL-Bのサービスをご利用になられたお客様の声をご紹介しています。'
+  'description' => 'MIZUKARAのサービスをご利用になられたお客様の声をご紹介しています。'
 ]); ?>
 	
 <div class="l-container">

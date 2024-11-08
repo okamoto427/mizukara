@@ -7,7 +7,7 @@
             <div class="l-header02__logo">
                 <a href="<?php echo esc_url( home_url() ); ?>/careerspeed/"><img
                         src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/logo.svg"
-                        alt="GOAL-B" /></a>
+                        alt="MIZUKARA" /></a>
                 <div class="l-header02__text">自分1人では想像し得ない未来へ</div>
             </div>
             <div class="m-hamburger02 sp">
@@ -145,7 +145,7 @@
                     <div class="m-imagetext__text03">キャリア特化コーチング<br><span class="green">「キャリスピ」</span>とは</div>
                     <div class="m-imagetext__text04">あなたの能力（want
                         toに基づく能力）を明確にした上で、現状の外側のGOALを設定し、1人では想像できない未来を現実にする弊社独自の認知科学に基づくコーチングサービスです。<br>
-                        あなたとキャリアコーチ育成機関（JCC）で合格した厳選されたGOAL-Bのプロコーチが、マンツーマンで対話を行い、人生を深掘り、個人の本音を引き出し、現実を変えることを徹底的にサポートします。
+                        あなたとキャリアコーチ育成機関（JCC）で合格した厳選されたMIZUKARAのプロコーチが、マンツーマンで対話を行い、人生を深掘り、個人の本音を引き出し、現実を変えることを徹底的にサポートします。
                     </div>
                 </div>
             </div>
@@ -618,21 +618,21 @@
                     <div class="m-about__title">
                         <h2 class="m-title01"><span class="english"
                                 data-appear-animation="blackTapeTextRotated">COMPANY</span><span class="japanese"
-                                data-appear-animation="blackTapeTextRotated">GOAL-Bについて</span></h2>
+                                data-appear-animation="blackTapeTextRotated">MIZUKARAについて</span></h2>
                     </div>
                     <div class="m-about__texts" data-appear-animation="fadeIn">
                         <div class="m-about__text05" data-appear-animation="blackTapeText">キャリスピは<br
-                                class="sp">コーチングプラット<br class="sp">フォーム<br class="pc">「GOAL-B」<br class="sp">のサービスです
+                                class="sp">コーチングプラット<br class="sp">フォーム<br class="pc">「MIZUKARA」<br class="sp">のサービスです
                         </div>
                         <div class="m-about__text04 mb60">
-                            GOAL-Bは累計10,000名以上へコーチング実績を持つコーチングプラットフォーム。<br>
+                            MIZUKARAは累計10,000名以上へコーチング実績を持つコーチングプラットフォーム。<br>
                             SNSでの総フォロワー数は20万人を超え、コーチングカンパニーで強い影響力を持っています。<br>国内大手企業や外資コンサル出身で、現在も挑戦を続けているキャリアのプロコーチが80名以上在籍しています。<br>
-                            キャリスピはGOAL-Bのコーチングサービスから生まれた、キャリアに特化した専門プログラムです。経験豊富なコーチのもと、万全のサポート体制であなたのキャリアアップを応援します。
+                            キャリスピはMIZUKARAのコーチングサービスから生まれた、キャリアに特化した専門プログラムです。経験豊富なコーチのもと、万全のサポート体制であなたのキャリアアップを応援します。
                         </div>
                         <div class="m-buttonMore">
                             <a href="<?php echo esc_url( home_url() ); ?>/about/">
                                 <span class="english">SEE MORE</span>
-                                <span class="japanese">GOAL-Bについて</span>
+                                <span class="japanese">MIZUKARAについて</span>
                             </a>
                         </div>
                     </div>

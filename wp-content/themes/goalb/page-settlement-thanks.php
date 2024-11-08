@@ -388,14 +388,14 @@ var opportunityId = "<?php echo $opportunity_Id; ?>";
     </style>
  <main class="l-payment">
         <aside class="payment-sidebar">
-            <img src="https://goal-b.co.jp/wordpress/wp-content/themes/goalb/assets/images/careerspeed/logo-02.png" alt="キャリスピロゴ" class="payment-sidebar__logo" />
+            <img src="https://MIZUKARA.co.jp/wordpress/wp-content/themes/goalb/assets/images/careerspeed/logo-02.png" alt="キャリスピロゴ" class="payment-sidebar__logo" />
         </aside>
 
         <div class="payment-main">
             <div class="thanks">
                 <p class="thanks__text">ありがとうございます</p>
                 <p class="thanks__text">決済が完了しました</p>
-                <a href="https://goal-b.co.jp/" class="thanks__btn">トップページへ</a>
+                <a href="https://MIZUKARA.co.jp/" class="thanks__btn">トップページへ</a>
             </div>
         </div>
     </main>

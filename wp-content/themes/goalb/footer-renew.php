@@ -14,7 +14,7 @@
           </div>
           <div class="s-fMenu__icLink">
             <div class="js-view js-view-opacity">
-              <a href="https://recruit.goal-b.co.jp/" target="_blank" class="c-icLink f-futura">
+              <a href="https://recruit.MIZUKARA.co.jp/" target="_blank" class="c-icLink f-futura">
                 View more
                 <?php get_template_part('assets_renew/images/common/ic-three-circle',null,$args); ?>
               </a>
@@ -71,7 +71,7 @@
                   <a href="" class="s-fBottom-separate__majorLink f-futura" style="pointer-events: none;">BUSINESS</a>
                   <div class="s-fBottom-separate__sub">
                     <a href="<?php echo home_url('/coaching/'); ?>" class="s-fBottom-separate__subLink c-hover-opacity">エグゼクティブコーチング</a><br>
-                    <a href="https://goal-b.co.jp/careerspeed/" target="_blank" class="s-fBottom-separate__subLink c-hover-opacity">キャリアコーチング</a><br>
+                    <a href="https://MIZUKARA.co.jp/careerspeed/" target="_blank" class="s-fBottom-separate__subLink c-hover-opacity">キャリアコーチング</a><br>
                     <a href="<?php echo home_url('/human-resource-training/'); ?>" class="s-fBottom-separate__subLink c-hover-opacity">人材研修プログラム</a><br>
                     <a href="<?php echo home_url('/agent/'); ?>" class="s-fBottom-separate__subLink c-hover-opacity">組織コーチング</a>
                   </div>
@@ -83,7 +83,7 @@
                   <a href="<?php echo home_url('/voice/'); ?>" class="s-fBottom-separate__majorLink f-futura c-hover-opacity">VOICE</a>
                 </div>
                 <div class="s-fBottom-separate__el">
-                  <a href="https://recruit.goal-b.co.jp/" class="s-fBottom-separate__majorLink f-futura c-hover-opacity">RECRUIT</a>
+                  <a href="https://recruit.MIZUKARA.co.jp/" class="s-fBottom-separate__majorLink f-futura c-hover-opacity">RECRUIT</a>
                 </div>
                 <div class="s-fBottom-separate__el">
                   <a href="<?php echo home_url('/news/'); ?>" class="s-fBottom-separate__majorLink f-futura c-hover-opacity">NEWS</a>

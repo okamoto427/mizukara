@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>本来の自分を取り戻すリブースト（REBOOST）</title>
     <meta name="description"
-        content="株式会社GOAL-Bが提供する本来の自分を取り戻すリブースト（REBOOST）。思い込みや、親の期待、周りの常識、他人の目、自信のなさ…。このプログラムは、これらの制限からあなたを解放して、あなたに「本来の自分で生きる力」を取り戻します。">
+        content="株式会社MIZUKARAが提供する本来の自分を取り戻すリブースト（REBOOST）。思い込みや、親の期待、周りの常識、他人の目、自信のなさ…。このプログラムは、これらの制限からあなたを解放して、あなたに「本来の自分で生きる力」を取り戻します。">
     <link rel="icon" type="image/png"
         href="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/favicons/favicon-32x32.png">
 

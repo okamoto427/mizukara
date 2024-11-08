@@ -90,7 +90,7 @@
             </div>
         </div>
         <div class="tobcoach-movie">
-            <div class="tobcoach-movie__title">新卒1年目で年収1000万のGOAL-Bエースに1日密着したら衝撃の生活だった</div>
+            <div class="tobcoach-movie__title">新卒1年目で年収1000万のMIZUKARAエースに1日密着したら衝撃の生活だった</div>
             <div class="tobcoach-movie__content">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/g_K12Y668uo?si=KTaQkp7lCPvyPxGG"
                     title="YouTube video player" frameborder="0"
@@ -102,7 +102,7 @@
     <?php elseif(is_single(1409)): //三谷晃平 ?>
     <div class="tobcoach-movie-wrap tobcoach-movie-wrap--col2">
         <div class="tobcoach-movie">
-            <div class="tobcoach-movie__title">僕が一番叱ってきた漢がGOAL-Bの"年間MVP"を受賞しました。</div>
+            <div class="tobcoach-movie__title">僕が一番叱ってきた漢がMIZUKARAの"年間MVP"を受賞しました。</div>
             <div class="tobcoach-movie__content">
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/gX8FcFj9XIM?si=Dr882ET1OUWXap45"
                     title="YouTube video player" frameborder="0"

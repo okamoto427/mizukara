@@ -17,7 +17,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<meta name="robots" content="noindex" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="description" content="キャリスピは、人生のゴール、自身の能力や将来やりたいことを明確にし、そこから逆算して現実を作るサービスです。お客様と「GOAL-B」のコーチが、マンツーマンで対話を行い、人生を深掘り、個人の本音を引き出し、現実を変えることを徹底的にサポートします。">
+    <meta name="description" content="キャリスピは、人生のゴール、自身の能力や将来やりたいことを明確にし、そこから逆算して現実を作るサービスです。お客様と「MIZUKARA」のコーチが、マンツーマンで対話を行い、人生を深掘り、個人の本音を引き出し、現実を変えることを徹底的にサポートします。">
     <title>キャリスピ | キャリア特化型コーチングサービス</title>
     <link rel="icon" type="image/png" href="<?php echo get_theme_file_uri('/assets/images/favicons/apple-icon-57x57.png'); ?>">
     <link rel="stylesheet" type="text/css" href="<?php echo get_theme_file_uri('/css/reset.css'); ?>">
@@ -35,7 +35,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta property="og:url" content="https://archishdesign.com">
     <meta property="og:type" content="website">
     <meta property="og:title" content="キャリスピ | キャリア特化型コーチングサービス">
-    <meta property="og:description" content="キャリスピは、人生のゴール、自身の能力や将来やりたいことを明確にし、そこから逆算して現実を作るサービスです。お客様と「GOAL-B」のコーチが、マンツーマンで対話を行い、人生を深掘り、個人の本音を引き出し、現実を変えることを徹底的にサポートします。">
+    <meta property="og:description" content="キャリスピは、人生のゴール、自身の能力や将来やりたいことを明確にし、そこから逆算して現実を作るサービスです。お客様と「MIZUKARA」のコーチが、マンツーマンで対話を行い、人生を深掘り、個人の本音を引き出し、現実を変えることを徹底的にサポートします。">
     <meta property="og:site_name" content="キャリスピ">
     <meta property="og:image" content="<?php echo get_theme_file_uri('/assets/images/shared/sns.png'); ?>">
     <!-- end ogp -->
@@ -246,7 +246,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <p class="ceo_name"><b><span>中川晃雄</span> 代表取締役</b></p>
             <p>浪人､留年､休学を経て神戸大学工学部建築学科を卒業｡<br>
               在学中は0円ヒッチハイク日本一周､アメリカ大陸横断､ユーラシア大陸横断､アフリカ大陸縦断､アフリカ大陸最高峰5895mキリマンジャロ登頂など､バックパッカーとして世界44カ国を旅した｡<br>
-              新卒で株式会社リクルート住まいカンパニーに入社し､3年間法人営業に従事｡2019年7月に株式会社GOAL-Bを創業｡</p>
+              新卒で株式会社リクルート住まいカンパニーに入社し､3年間法人営業に従事｡2019年7月に株式会社MIZUKARAを創業｡</p>
           </div>
         </div>
       </section>
@@ -323,13 +323,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </main>
     <footer>
       <p class="footer_link">
-        <a href="https://goal-b.co.jp/about/">会社概要</a> | 
-        <a href="https://goal-b.co.jp/law/">特定商取引法上の表記</a> | <br class="sp">
-        <a href="https://goal-b.co.jp/privacy/">プライバシーポリシー</a> | 
-        <a href="https://goal-b.co.jp/contact/">お問い合わせ</a>
+        <a href="https://MIZUKARA.co.jp/about/">会社概要</a> | 
+        <a href="https://MIZUKARA.co.jp/law/">特定商取引法上の表記</a> | <br class="sp">
+        <a href="https://MIZUKARA.co.jp/privacy/">プライバシーポリシー</a> | 
+        <a href="https://MIZUKARA.co.jp/contact/">お問い合わせ</a>
       </p>
       <p>掲載の情報・画像など、すべての<br class="sp">コンテンツの無断複写・転載を禁じます。</p>
-      <small>Copyright © 2023 株式会社GOAL-B. All Rights Reserved.</small>
+      <small>Copyright © 2023 株式会社MIZUKARA. All Rights Reserved.</small>
     </footer>
     <script type="text/javascript" src="<?php echo get_theme_file_uri('/js/slick.js'); ?>"></script>
     <script type="text/javascript" src="<?php echo get_theme_file_uri('/js/index.js'); ?>"></script>

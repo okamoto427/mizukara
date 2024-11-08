@@ -32,10 +32,10 @@
 	
 <header class="l-header">
 <div class="l-header__inner">
-	<div class="l-header__logo"><a href="<?php echo esc_url( home_url() ); ?>/"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo.svg" alt="GOAL-B" /></a></div>
+	<div class="l-header__logo"><a href="<?php echo esc_url( home_url() ); ?>/"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo.svg" alt="MIZUKARA" /></a></div>
 	<nav class="nav-global pc">
 	<ul>
-		<li><a href="<?php echo esc_url( home_url() ); ?>/about/"><span class="english">ABOUT</span><span class="japanese">GOAL-Bについて</span></a></li>
+		<li><a href="<?php echo esc_url( home_url() ); ?>/about/"><span class="english">ABOUT</span><span class="japanese">MIZUKARAについて</span></a></li>
 		<li><span class="nav-business"><span class="english">BUSINESS</span><span class="japanese">事業内容</span></span>
 			<div class="nav-global__in">
 			<ul>
@@ -63,7 +63,7 @@
 		</div>
 	</div>
 	<div class="l-header__menus">
-		<div class="l-header__logoIn"><a href="<?php echo esc_url( home_url() ); ?>/"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white.svg" alt="GOAL-B" /></a></div>
+		<div class="l-header__logoIn"><a href="<?php echo esc_url( home_url() ); ?>/"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white.svg" alt="MIZUKARA" /></a></div>
 		<nav class="nav-global">
 			<div class="nav-heading">サービス・事業</div>
 			<div class="nav-row">
@@ -82,7 +82,7 @@
 			<div class="nav-heading">企業情報</div>
 			<div class="nav-row">
 				<ul class="nav-link">
-					<li><a href="<?php echo esc_url( home_url() ); ?>/about/">GOAL-Bについて</a></li>
+					<li><a href="<?php echo esc_url( home_url() ); ?>/about/">MIZUKARAについて</a></li>
 					<li><a href="<?php echo esc_url( home_url() ); ?>/member/">メンバー</a></li>
 					<li><a href="<?php echo esc_url( home_url() ); ?>/recruit/">採用情報</a></li>
 					<li><a href="<?php echo esc_url( home_url() ); ?>/news/">お知らせ</a></li>
@@ -92,7 +92,7 @@
 					<li><a href="<?php echo esc_url( home_url() ); ?>/law/">特定商法取引法<br class="sp">に基づく表記</a></li>
 				</ul>
 				<ul class="nav-link">
-					<li><a href="#" target="_blank">GOAL-Bマガジン</a></li>
+					<li><a href="#" target="_blank">MIZUKARAマガジン</a></li>
 					<li><a href="<?php echo esc_url( home_url() ); ?>/contact/">お問い合わせフォーム</a></li>
 				</ul>
 			</div>
@@ -105,7 +105,7 @@
 	<div class="home-cover__texts">
 		<div class="home-cover__text01" data-appear-animation="blackTapeText">全ての人に可能性がある</div>
 		<div class="home-cover__text02" data-appear-animation="blackTapeText">NOTHING IS IMPOSSIBLE</div>
-		<div class="home-cover__text03" data-appear-animation="blackTapeText">GOAL-Bは<br class="sp">「全ての人に可能性がある」を体現し続けます。</div>
+		<div class="home-cover__text03" data-appear-animation="blackTapeText">MIZUKARAは<br class="sp">「全ての人に可能性がある」を体現し続けます。</div>
 	</div>
 	<div class="tapes-topleft">
 		<div class="tape-gray home-cover__tape01" data-appear-animation="grayTapeLoop"></div>
@@ -132,14 +132,14 @@
 		<div class="tape-black m-about__bg05" data-appear-animation="blackTape1"></div>
 		<div class="m-about__items">
 			<div class="m-about__title">
-				<h2 class="m-title01"><span class="english" data-appear-animation="blackTapeTextRotated">ABOUT</span><span class="japanese" data-appear-animation="blackTapeTextRotated">GOAL-Bについて</span></h2>
+				<h2 class="m-title01"><span class="english" data-appear-animation="blackTapeTextRotated">ABOUT</span><span class="japanese" data-appear-animation="blackTapeTextRotated">MIZUKARAについて</span></h2>
 			</div>
 			<div class="m-about__texts" data-appear-animation="fadeIn">
 				<div class="m-about__text01 mb60">今日も最高の1日に</div>				
 				<div class="m-buttonMore">
 					<a href="<?php echo esc_url( home_url() ); ?>/about/">
 						<span class="english">SEE MORE</span>
-						<span class="japanese">GOAL-Bについて</span>
+						<span class="japanese">MIZUKARAについて</span>
 					</a>
 				</div>
 			</div>
@@ -149,7 +149,7 @@
 	
 <section class="home-business">
 	<div class="home-business__inner">			
-		<h2 class="m-title02 -center mb30"><span class="english">OUR BUSINESS</span><span class="japanese">GOAL-Bが提供するサービス・事業</span></h2>
+		<h2 class="m-title02 -center mb30"><span class="english">OUR BUSINESS</span><span class="japanese">MIZUKARAが提供するサービス・事業</span></h2>
 		<p class="m-textCenter">「全ての人に可能性がある」を実現することが私たちの仕事です。<br>私たちはコーチングという技術を用いて、理想の現実をつくることを支援します。</p>
 		<div class="home-business__items">
 			<div class="home-business__item">
@@ -179,7 +179,7 @@
 			<div class="tape-black home-member__bg02" data-appear-animation="blackTape1"></div>
 			<div class="tape-black home-member__bg03" data-appear-animation="blackTape1"></div>	
 		</div>
-		<h2 class="m-title02 -center"><span class="english">MEMBER</span><span class="japanese">GOAL-Bのメンバー</span></h2>
+		<h2 class="m-title02 -center"><span class="english">MEMBER</span><span class="japanese">MIZUKARAのメンバー</span></h2>
 		<div class="home-member__slideWrapper">
 			<div class="home-member__slide">
 				<div class="home-member__slideItem"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/home/member01.jpg" alt=""/></div>
@@ -220,7 +220,7 @@
 		<div class="tape-gray home-media__bg01" data-appear-animation="grayTape"></div>
 			<div class="tape-black home-media__bg02" data-appear-animation="blackTape1"></div>
 			<div class="tape-black home-media__bg03" data-appear-animation="blackTape1"></div>	
-			<h2 class="m-title02"><span class="english">MEDIA</span><span class="japanese">GOAL-Bメディア</span></h2>
+			<h2 class="m-title02"><span class="english">MEDIA</span><span class="japanese">MIZUKARAメディア</span></h2>
 			<div class="home-media__items">
 				<div class="home-media__item">
 					<div class="home-media__movie">
@@ -301,7 +301,7 @@
 					<div class="home-social__icon"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/icon-youtube.svg" alt=""/></div>
 					<div class="home-social__texts">
 						<div class="home-social__text01">YouTube</div>
-						<div class="home-social__text02">GOAL-Bの最新情報や、<br>お客様のインタビューを配信中</div>
+						<div class="home-social__text02">MIZUKARAの最新情報や、<br>お客様のインタビューを配信中</div>
 					</div>
 				</a>
 			</div>		
@@ -310,7 +310,7 @@
 					<div class="home-social__icon"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/icon-twitter.svg" alt=""/></div>
 					<div class="home-social__texts">
 						<div class="home-social__text01">Twitter</div>
-						<div class="home-social__text02">GOAL-Bの最新情報や、<br>お客様のインタビューを配信中</div>
+						<div class="home-social__text02">MIZUKARAの最新情報や、<br>お客様のインタビューを配信中</div>
 					</div>
 				</a>
 			</div>	
@@ -329,8 +329,8 @@
 		<div class="m-imagetext__items">
 			<div class="m-imagetext__image"><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/home/picture03.jpg" alt=""/></div>
 			<div class="m-imagetext__texts">
-				<div class="m-imagetext__text01">GOAL-Bで共に<br>可能性を体現しよう</div>
-				<div class="m-imagetext__text02">あなたもGOAL-Bの仲間として働き、<br>お客さまの自分史上最高を<br class="sp">引き出していきませんか。</div>
+				<div class="m-imagetext__text01">MIZUKARAで共に<br>可能性を体現しよう</div>
+				<div class="m-imagetext__text02">あなたもMIZUKARAの仲間として働き、<br>お客さまの自分史上最高を<br class="sp">引き出していきませんか。</div>
 				<div class="m-buttonMore">
 					<a href="<?php echo esc_url( home_url() ); ?>/recruit/">
 						<span class="english">SEE MORE</span>

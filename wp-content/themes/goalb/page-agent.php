@@ -381,7 +381,7 @@ https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css
             <div class="agent-messages__img">
                 <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/agent/muraoka.jpg"
                     alt="会社代表の画像">
-                <p>株式会社GOAL-B<br>代表取締役 村岡大樹</p>
+                <p>株式会社MIZUKARA<br>代表取締役 村岡大樹</p>
             </div>
             <div class="agent-messages__text">
                 <h3>転職はあくまで手段。<br class="sp">ゴールではありません。<br>これからの人生を最高の人生に。</h3>

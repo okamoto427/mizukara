@@ -82,7 +82,7 @@
             <li><a href="#ourteam"><span class="m-pagenav__in"><span class="english">OUR TEAM</span><span
                             class="japanese">コーチ一覧</span></span></a></li>
             <li><a href="#point"><span class="m-pagenav__in"><span class="english">POINT</span><span
-                            class="japanese">GOAL-Bの特徴</span></span></a></li>
+                            class="japanese">MIZUKARAの特徴</span></span></a></li>
             <li><a href="#flow"><span class="m-pagenav__in"><span class="english">FLOW</span><span
                             class="japanese">サービスの流れ</span></span></a></li>
             <li><a href="#price"><span class="m-pagenav__in"><span class="english">PRICE</span><span
@@ -257,10 +257,10 @@
             <p class="m-textCenter">経験豊富なプロのコーチが<br class="sp">お待ちしております。</p>
             <div class="m-coach__items m-coach__items--executive">
                 <div class="m-coach__item">
-                    <a href="https://goal-b.co.jp/member/goodsun/" tabindex="-1">
+                    <a href="https://MIZUKARA.co.jp/member/goodsun/" tabindex="-1">
                         <div class="m-coach__image">
                             <img width="1024" height="683"
-                                src="https://goal-b.co.jp/wordpress/wp-content/uploads/2023/07/DSC01391-1024x683.jpg"
+                                src="https://MIZUKARA.co.jp/wordpress/wp-content/uploads/2023/07/DSC01391-1024x683.jpg"
                                 class="attachment-large size-large wp-post-image" alt="" decoding="async"
                                 loading="lazy">
                         </div>
@@ -272,10 +272,10 @@
                     </a>
                 </div>
                 <div class="m-coach__item">
-                    <a href="https://goal-b.co.jp/member/haruka/" tabindex="-1">
+                    <a href="https://MIZUKARA.co.jp/member/haruka/" tabindex="-1">
                         <div class="m-coach__image">
                             <img width="1024" height="762"
-                                src="https://goal-b.co.jp/wordpress/wp-content/uploads/2023/07/f2364efb-1532-49ba-83b5-4358dd336c95-1024x762.jpg"
+                                src="https://MIZUKARA.co.jp/wordpress/wp-content/uploads/2023/07/f2364efb-1532-49ba-83b5-4358dd336c95-1024x762.jpg"
                                 class="attachment-large size-large wp-post-image" alt="" decoding="async"
                                 loading="lazy">
                         </div>
@@ -323,7 +323,7 @@
                 <div class="tape-black m-point__bg03" data-appear-animation="blackTape1"></div>
             </div>
             <h2 class="m-title02 -center mb20" id="point"><span class="english">POINT</span><span
-                    class="japanese">GOAL-Bの特徴</span></h2>
+                    class="japanese">MIZUKARAの特徴</span></h2>
             <p class="m-textCenter">他社の<br class="sp">エグゼクティブコーチング<br class="sp">との違い</p>
             <div class="m-point__items">
                 <div class="m-point__item">
@@ -369,7 +369,7 @@
             <div data-appear-animation="fadeIn">
                 <h3 class="m-trial__heading">TRIAL</h3>
                      <div class="m-trial__text01">エグゼクティブコーチング<br>サービス体験<span>初回体験5,500円</span></div>
-                <div class="m-trial__text02">GOAL-Bのコーチングがあなたに合うか、<br class="sp">実際のコーチングに近い形で体験が可能です。<br>
+                <div class="m-trial__text02">MIZUKARAのコーチングがあなたに合うか、<br class="sp">実際のコーチングに近い形で体験が可能です。<br>
                     コーチとの対話を通して、あなただけの可能性を。<br class="sp">ゴールを見つけ出しましょう。</div>
                 <div class="m-button -center"><a
                         href="https://liff-gateway.lineml.jp/landing?follow=%40goalb&lp=GCZ4TM&liff_id=1655676552-2oDwbxkW"><span

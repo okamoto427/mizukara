@@ -13,7 +13,7 @@
           <a href="" style="pointer-events: none;">サービス・事業</a>
           <div class="l-header-drawer__childEl">
             <a href="<?php echo home_url('/coaching/'); ?>" class="c-hover-opacity">エグゼクティブコーチング</a><br>
-            <a href="https://goal-b.co.jp/careerspeed/" target="_blank" class="c-hover-opacity">キャリアコーチング</a><br>
+            <a href="https://MIZUKARA.co.jp/careerspeed/" target="_blank" class="c-hover-opacity">キャリアコーチング</a><br>
             <a href="<?php echo home_url('/human-resource-training/'); ?>" class="c-hover-opacity">人材研修プログラム</a><br>
             <a href="<?php echo home_url('/agent/'); ?>" class="c-hover-opacity">組織コーチング</a>
           </div>
@@ -22,7 +22,7 @@
           <a href="<?php echo home_url('/member/'); ?>" class="c-hover-opacity">メンバー</a>
         </div>
         <div class="l-header-drawer__el">
-          <a href="https://recruit.goal-b.co.jp/" target="_blank" class="c-hover-opacity">採用</a>
+          <a href="https://recruit.MIZUKARA.co.jp/" target="_blank" class="c-hover-opacity">採用</a>
         </div>
         <div class="l-header-drawer__el">
           <a href="<?php echo home_url('/news/'); ?>" class="c-hover-opacity">お知らせ</a>
@@ -35,7 +35,7 @@
   <div class="l-header__megamenuWrap">
     <div class="l-header__megamenu js-megaTrigger">
       <a href="<?php echo home_url('/coaching/'); ?>" class="c-hover-opacity">エグゼクティブコーチング</a><br>
-      <a href="https://goal-b.co.jp/careerspeed/" target="_blank" class="c-hover-opacity">キャリアコーチング</a><br>
+      <a href="https://MIZUKARA.co.jp/careerspeed/" target="_blank" class="c-hover-opacity">キャリアコーチング</a><br>
       <a href="<?php echo home_url('/human-resource-training/'); ?>" class="c-hover-opacity">人材研修プログラム</a><br>
       <a href="<?php echo home_url('/agent/'); ?>" class="c-hover-opacity">組織コーチング</a>
       <div class="l-header__megamenuOverlay js-drawer"></div>
@@ -52,7 +52,7 @@
       <a href="<?php echo home_url('/about/'); ?>" class="l-header__link c-hover-opacity">MIZUKARAについて</a>
       <a class="l-header__link js-megaTrigger">サービス・事業</a>
       <a href="<?php echo home_url('/member/'); ?>" class="l-header__link c-hover-opacity">メンバー</a>
-      <a href="https://recruit.goal-b.co.jp" class="l-header__link c-hover-opacity">採用</a>
+      <a href="https://recruit.MIZUKARA.co.jp" class="l-header__link c-hover-opacity">採用</a>
       <a href="<?php echo home_url('/news/'); ?>" class="l-header__link c-hover-opacity">お知らせ</a>
     </nav>
     <p class="l-header__cr">MIZUKARA All rights Reserved</p>

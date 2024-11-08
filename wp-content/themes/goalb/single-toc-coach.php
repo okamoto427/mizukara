@@ -92,7 +92,7 @@
                         </div>
                     </div>
                     <div class="tobcoach-movie">
-                        <div class="tobcoach-movie__title">新卒1年目で年収1000万のGOAL-Bエースに1日密着したら衝撃の生活だった</div>
+                        <div class="tobcoach-movie__title">新卒1年目で年収1000万のMIZUKARAエースに1日密着したら衝撃の生活だった</div>
                         <div class="tobcoach-movie__content">
                             <iframe width="560" height="315"
                                 src="https://www.youtube.com/embed/g_K12Y668uo?si=KTaQkp7lCPvyPxGG"

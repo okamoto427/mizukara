@@ -197,7 +197,7 @@
               </h3>
             </div>
             <div class="s-business__link">
-              <a href="https://goal-b.co.jp/careerspeed/" target="_blank" class="s-news__icLink c-icLink">
+              <a href="https://MIZUKARA.co.jp/careerspeed/" target="_blank" class="s-news__icLink c-icLink">
                 キャリアコーチング
                 <?php get_template_part('assets_renew/images/top/ic-arrow',null,$args); ?>
               </a>

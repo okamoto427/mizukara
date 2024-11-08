@@ -4274,7 +4274,6 @@ a:hover .m-voice__text01{
 .m-coach__image img{
 	width: 100%;
 	object-fit: cover;
-	aspect-ratio: 3 / 4;
 	margin-bottom: 3rem;
 }
 .m-coach__name{
@@ -7719,7 +7718,7 @@ textarea {
 	
 }
 
-/* GOAL-Bについて--------------------------------------------------*/
+/* MIZUKARAについて--------------------------------------------------*/
 
 /*-- メイン --*/
 
@@ -10262,5 +10261,41 @@ padding: 11rem 0 17.5rem;
 		font-size: 1.3rem;
 		margin-top: 4.4rem;
 		line-height: 1.8;
+	}
+}
+
+.m-imagetext__texts {
+	display: grid;
+	gap: 2.4rem;
+}
+
+.m-imagetext__texts h3 {
+	font-family: 'Prompt';
+	font-size: 4.2rem;
+	font-weight: bold;
+	line-height: 1.2;
+}
+
+.m-imagetext__texts p {
+	font-size: 2.1rem;
+	font-weight: bold;
+}
+
+@media screen and (max-width:767px) {
+	.m-imagetext__texts {
+		display: grid;
+		gap: 2.4rem;
+	}
+	
+	.m-imagetext__texts h3 {
+		font-family: 'Prompt';
+		font-size: 3rem;
+		font-weight: bold;
+		line-height: 1.2;
+	}
+	
+	.m-imagetext__texts p {
+		font-size: 1.8rem;
+		font-weight: bold;
 	}
 }

@@ -3,7 +3,7 @@
         <div class="l-footer__left">
             <div class="l-footer__logo sp"><a href="<?php echo esc_url( home_url() ); ?>/"><img loading="lazy"
                         src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white.svg"
-                        alt="GOAL-B" /></a></div>
+                        alt="MIZUKARA" /></a></div>
             <div class="nav-footer">
                 <div class="nav-heading">サービス・事業</div>
                 <div class="nav-row -top">
@@ -23,7 +23,7 @@
                 <div class="nav-heading">企業情報</div>
                 <div class="nav-row -top">
                     <ul class="nav-link">
-                        <li><a href="<?php echo esc_url( home_url() ); ?>/about/">GOAL-Bについて</a></li>
+                        <li><a href="<?php echo esc_url( home_url() ); ?>/about/">MIZUKARAについて</a></li>
                         <li><a href="<?php echo esc_url( home_url() ); ?>/member/">メンバー</a></li>
                         <li><a href="<?php echo esc_url( home_url() ); ?>/recruit/">採用情報</a></li>
                     </ul>
@@ -40,8 +40,8 @@
                 <div class="nav-heading">オウンドメディア</div>
                 <div class="nav-row -bottom">
                     <ul class="nav-link nav-link--media">
-                        <li><a href="https://goal-b.co.jp/magazine/" target="_blank">今日も最高の1日に</a></li>
-                        <li><a href="https://goal-b.co.jp/careercoaching-lab/" target="_blank">キャリアコーチング研究所</a></li>
+                        <li><a href="https://MIZUKARA.co.jp/magazine/" target="_blank">今日も最高の1日に</a></li>
+                        <li><a href="https://MIZUKARA.co.jp/careercoaching-lab/" target="_blank">キャリアコーチング研究所</a></li>
                     </ul>
                 </div>
             </div>
@@ -50,7 +50,7 @@
         <div class="l-footer__right">
             <div class="l-footer__logo pc"><a href="<?php echo esc_url( home_url() ); ?>/"><img loading="lazy"
                         src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/logo-white.svg"
-                        alt="GOAL-B" /></a></div>
+                        alt="MIZUKARA" /></a></div>
             <ul class="l-footer__social">
                 <li><a href="https://youtube.com/@GOALB" target="_blank"><img loading="lazy"
                             src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/icon-youtube-white.svg"
@@ -59,7 +59,7 @@
                             src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/shared/icon-twitter-white.svg"
                             alt="" /></a></li>
             </ul>
-            <p class="l-footer__copy">2024 GOAL-B All rights Reserved</p>
+            <p class="l-footer__copy">2024 MIZUKARA All rights Reserved</p>
         </div>
     </div>
 

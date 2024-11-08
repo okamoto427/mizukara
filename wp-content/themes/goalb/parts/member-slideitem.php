@@ -1,7 +1,7 @@
 <div class="m-coach__item">
 <a href="<?php the_permalink(); ?>">
   <div class="m-coach__image">
-  <?php the_post_thumbnail('large'); ?>
+    <img src="<?php echo get_template_directory_uri(); ?>/assets_renew/images/top/member-img01.jpg" alt="">
   </div>
   <!-- <div class="test">aaa</div> -->
   <div class="m-coach__name">

@@ -492,7 +492,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="accordion__accordion">
                         <h3 class="accordion__accordion-title">
                             <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets-career_wo/images/question__accordion-title01.png"
-                                alt="GOAL-Bの別サービス、コーチングとの違いは？" width="650" height="122" loading="lazy" />
+                                alt="MIZUKARAの別サービス、コーチングとの違いは？" width="650" height="122" loading="lazy" />
                         </h3>
                         <div class="accordion__accordion-body">
                             <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets-career_wo/images/question__accordion-body01.png"
@@ -583,15 +583,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <!-- footer -->
             <footer class="footer">
                 <div class="footer__main">
-                    <p><a href="https://goal-b.co.jp/" target="_blank">会社概要</a></p>
-                    <p class="footer__tokusho"><a href="https://goal-b.co.jp/law/" target="_blank">特定商取引法上の表記</a></p>
-                    <p class="footer__privacy"><a href="https://goal-b.co.jp/privacy/" target="_blank">プライバシーポリシー</a>
+                    <p><a href="https://MIZUKARA.co.jp/" target="_blank">会社概要</a></p>
+                    <p class="footer__tokusho"><a href="https://MIZUKARA.co.jp/law/" target="_blank">特定商取引法上の表記</a></p>
+                    <p class="footer__privacy"><a href="https://MIZUKARA.co.jp/privacy/" target="_blank">プライバシーポリシー</a>
                     </p>
-                    <p><a href="https://goal-b.co.jp/contact/" target="_blank">お問い合わせ</a></p>
+                    <p><a href="https://MIZUKARA.co.jp/contact/" target="_blank">お問い合わせ</a></p>
                 </div>
                 <p class="footer__ng">掲載の情報・画像など、すべてのコンテンツの無断複写・転載を禁じます。</p>
                 <p class="footer__adress">東京都港区虎ノ門4-1-1 神谷町トラストタワー 23F</p>
-                <p class="footer__copyright"><big>&copy;</big> 2024 株式会社GOAL-B. All Rights Reserved.</p>
+                <p class="footer__copyright"><big>&copy;</big> 2024 株式会社MIZUKARA. All Rights Reserved.</p>
             </footer>
         </div>
     </main>

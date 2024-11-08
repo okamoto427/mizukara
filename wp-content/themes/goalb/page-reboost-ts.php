@@ -26,7 +26,7 @@
     ?>
 <header id="header" class="siteHeader reboost-sm-fv">
     <p class="siteHeader__logo">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shared/logo.svg" alt="GOAL-B" width="118"
+        <img src="<?php echo get_template_directory_uri(); ?>/assets/images/shared/logo.svg" alt="MIZUKARA" width="118"
             height="25">
     </p>
     <div class="keyVisual keyVisual-sm">
@@ -53,7 +53,7 @@
 </header>
 <section class="section is-cardslide">
     <div class="wrap">
-        <h2 class="headingSection">この講座を受けた<br>GOAL-Bメンバーの声</h2>
+        <h2 class="headingSection">この講座を受けた<br>MIZUKARAメンバーの声</h2>
         <div class="swiper-container js-cardSlide2">
             <div class="swiper-wrapper">
                 <!-- Slide Item -->
@@ -482,7 +482,7 @@
                     alt="心の専門家だからこそ本来の自分を取り戻すサポートができます" width="681" height="444" loading="lazy" decoding="async">
             </div>
             <div class="boxWideSplit__body">
-                <p class="p"><span class="u-bold">私たち（GOAL-Bメンバー）はコーチ</span>という仕事をしています。</p>
+                <p class="p"><span class="u-bold">私たち（MIZUKARAメンバー）はコーチ</span>という仕事をしています。</p>
                 <p class="p">言い換えたら<span class="u-bold">心を扱うプロです。</span></p>
                 <p class="p">これまで<span class="u-bold">何万人もの方と対話して、心の部分に変化を起こすことで、人生に本質的変化を起こすお手伝いをしてきました。</span></p>
                 <p class="p">そして<span
@@ -695,21 +695,21 @@
     <div class="sectionCoach__inner reboost-sm-inner">
         <div class="sectionCoach__dmy"></div>
         <div class="sectionCoach__conte">
-            <p class="sectionCoach__pos">株式会社GOAL-B</p>
+            <p class="sectionCoach__pos">株式会社MIZUKARA</p>
             <div class="sectionCoach__prf">
                 <p class="sectionCoach__name">島田&nbsp; 隆則</p>
                 <p class="sectionCoach__eng">Takanori&nbsp;Shimada</p>
             </div>
             <div class="sectionCoach__txt">
                 <p class="p">・一般社団法人キャリアコーチング協会 代表理事
-                    <br>・株式会社GOAL-B 執行役員
+                    <br>・株式会社MIZUKARA 執行役員
                     <br>・Be Different 代表
                     <br>・キャリアコーチング 累計300名
                     <br>・セミナー講師 累計8000名
                 </p>
                 <p class="p">
                     キャリア経歴：<br>青山学院大学卒業<br>2015年：(株)インターワークス入社<br>2018年：(株)リクルートキャリア入社<br>2019年：パーソナルジム起業<br>2020年：ベストボディジャパン日本1位<br>2021年：(株)Rascal's
-                    執行役員<br>2022年：(株)GOAL-B 入社<br>2023年：一般社団法人キャリアコーチング協会代表理事 </p>
+                    執行役員<br>2022年：(株)MIZUKARA 入社<br>2023年：一般社団法人キャリアコーチング協会代表理事 </p>
                 <p class="p">最高の人生・キャリアを歩んでいくには、本当の自分、自分の心の声が聴こえていることが大事です。</p>
                 <p class="p">本当の自分、心の声が聴こえずして、良い人生は歩めません。</p>
                 <p class="p">本来の自分を、2日間を通して、一緒に見つけていきましょう！</p>
@@ -721,11 +721,11 @@
 
 <section class="section">
     <div class="wrap">
-        <h2 class="headingSection">あなたの進化をサポートする<br>GOAL-Bメンバー</h2>
+        <h2 class="headingSection">あなたの進化をサポートする<br>MIZUKARAメンバー</h2>
         <div class="boxMedia">
 
             <div class="boxMedia__conte">
-                <p class="p">当日は、講師の島田だけでなく、<br class="u-br_pc">GOAL-Bメンバー複数人で<span class="u-bold">あなたの人生を前進させます。</span>
+                <p class="p">当日は、講師の島田だけでなく、<br class="u-br_pc">MIZUKARAメンバー複数人で<span class="u-bold">あなたの人生を前進させます。</span>
                 </p>
                 <p>コーチとして第一線で活躍している人たちの出会い、新しい仲間との出会い、多くの刺激を受ける機会にもなりますので、ぜひ楽しみにしていてください。</p>
             </div>
@@ -927,7 +927,7 @@
                             <h3 class="boxStickArticle__heading">受講した理由</h3>
                             <p class="p">自分がコンサルを行う上でお客様に寄り添うとか<br class="u-br_pc">気持ちの部分にフォーカスできたらいいなと思っていました。</p>
                             <p class="p">そのヒントが得られるかなという想いが1つ。</p>
-                            <p>もう1つは<span class="u-bold">GOAL-BさんのYouTubeを見て<br
+                            <p>もう1つは<span class="u-bold">MIZUKARAさんのYouTubeを見て<br
                                         class="u-br_pc">良いチーム、良い会社さんだなと思って参加しようと思いました。</span></p>
                         </div>
                         <div class="u-stackLg">
@@ -1007,10 +1007,10 @@
 
                         <div class="u-stackLg">
                             <h3 class="boxStickArticle__heading">受講した理由</h3>
-                            <p class="p">私の周りの数名がGOAL-Bさんのことがすごい好きで<br class="u-br_pc">私のXのタイムラインにもよく出てきてたんです。</p>
-                            <p class="p">それでGOAL-Bさんのことを知っていくようになって<br
+                            <p class="p">私の周りの数名がMIZUKARAさんのことがすごい好きで<br class="u-br_pc">私のXのタイムラインにもよく出てきてたんです。</p>
+                            <p class="p">それでMIZUKARAさんのことを知っていくようになって<br
                                     class="u-br_pc">LINEに登録したらReboostのオンライン体験会の案内が届きました。</p>
-                            <p class="p">GOAL-Bさんに興味があったし行ってみたいな、と。</p>
+                            <p class="p">MIZUKARAさんに興味があったし行ってみたいな、と。</p>
                             <p class="p">むしろ内容があまり明かされてなかったからこそ、<br class="u-br_pc">これは行かないと分からんでしょうと思い切って申し込みました。</p>
                             <p class="p">あとは<span class="u-bold">2020年度はコロナの影響で会社の売上が何千万か下がってしまったんですけど<br
                                         class="u-br_pc">その後は持ち直していって最高収益を達成していて<br
@@ -1109,7 +1109,7 @@
 
                         <div class="u-stackLg">
                             <h3 class="boxStickArticle__heading">受講した理由</h3>
-                            <p class="p">Reboost講師の村岡さん（現在GOAL-B 代表取締役CEO）の個別コーチングを受けていました。</p>
+                            <p class="p">Reboost講師の村岡さん（現在MIZUKARA 代表取締役CEO）の個別コーチングを受けていました。</p>
                             <p class="p">村岡さんと元々知り合いで「1つやりたかった俺の夢が叶うんだよね」っていう話を聞いていて<br
                                     class="u-br_pc">それがReboostの事業だったので是非それを私もキャッチしたいと思いました。</p>
                             <p class="p">あと個別コーチングをしていただいて結果が出たり変化がすごくあったので<br class="u-br_pc">コーチングが終わる時期だったこともあり、<br
@@ -1137,7 +1137,7 @@
                             <p class="p">内容は知らない方がいいので多くは語れないんですけど<br class="u-br_pc">自分が今までやってきたことと向き合いの質が全然違う、方向性が違う。
                             </p>
                             <p class="p">学ぶとか、外側からの知識ってほぼいらないんだなって、すごい衝撃があって。</p>
-                            <p class="p">自分自身もコーチングに近いライフコーチングを、<br class="u-br_pc">GOAL-Bが提供しているものとはちょっと違うと思うのですが、<br
+                            <p class="p">自分自身もコーチングに近いライフコーチングを、<br class="u-br_pc">MIZUKARAが提供しているものとはちょっと違うと思うのですが、<br
                                     class="u-br_pc">その組み立てをしていく中でのヒントもすごくありました。</p>
                             <p class="p">私が逆にライフコーチングをリリースしきれなかったのは<br class="u-br_pc">頭でっかちなものを提供しても意味がないというのがありました。
                             </p>
@@ -1315,13 +1315,13 @@
 
 <section class="section">
     <div class="wrap">
-        <h2 class="headingSection">株式会社GOAL-Bについて</h2>
+        <h2 class="headingSection">株式会社MIZUKARAについて</h2>
         <div class="boxAbout">
         </div>
         <p class="p textMd">どんな風にも生きることができるこの世界。</p>
-        <p class="p textMd">言い訳を並べて自分の可能性に蓋をしない。弊社GOAL-Bは、メンバーとクライアント様の生き様を通して、「全ての人に可能性がある」を体現し続けます。</p>
+        <p class="p textMd">言い訳を並べて自分の可能性に蓋をしない。弊社MIZUKARAは、メンバーとクライアント様の生き様を通して、「全ての人に可能性がある」を体現し続けます。</p>
         <p class="p textMd">
-            「身体と心が変われば人生が変わる」この核心をもとに「フィットネス」と「コーチング」の事業を展開する株式会社GOAL-Bを2019年に創業。<br>「Body（身体）とBe（心）を改革しGOALを達成する」これがGOAL-Bの由来です。
+            「身体と心が変われば人生が変わる」この核心をもとに「フィットネス」と「コーチング」の事業を展開する株式会社MIZUKARAを2019年に創業。<br>「Body（身体）とBe（心）を改革しGOALを達成する」これがMIZUKARAの由来です。
         </p>
         <p class="textMd">強くエネルギーに満ち溢れた身体をつくり、高いGOALを設定することで効果的に現実を作り続けることで「全ての人に可能性がある」を体現し、最高の人生を生きる人を増やします。</p>
     </div>
@@ -1335,7 +1335,7 @@
             <dd class="listFaq__a">
                 <div class="listFaq__aInner">
                     <p class="p u-bold">不可です。</p>
-                    <p>GOAL-Bも一切撮影を行いません。ご自身の辛い過去、人に話せなかった内容をお話になる場面もある方がいます。ご自身に最大限向き合うために、収録等は行うことができません。</p>
+                    <p>MIZUKARAも一切撮影を行いません。ご自身の辛い過去、人に話せなかった内容をお話になる場面もある方がいます。ご自身に最大限向き合うために、収録等は行うことができません。</p>
                 </div>
             </dd>
         </dl>

@@ -1,5 +1,5 @@
 <?php get_header(null,[
-  'description' => 'GOAL-Bのメンバーをご紹介しています。'
+  'description' => 'MIZUKARAのメンバーをご紹介しています。'
 ]); ?>
 	
 <div class="l-container">
