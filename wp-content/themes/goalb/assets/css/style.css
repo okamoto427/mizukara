@@ -7555,13 +7555,13 @@ border-width: 0px 0px 7rem 39rem;
 /* pc */
 @media print,only screen and (min-width: 768px){ 
 	.m-member{
-		gap:8rem 8rem;
+		gap:4rem 4rem;
 	}
 	.m-member.m-member--toc-coach{
 		gap:2rem 4rem;
 	}
 	.m-member__item{
-		width: calc( ( 100% / 3 ) - 5.34rem );
+		width: 24rem;
 	}
 	.m-member--toc-coach > .m-member__item{
 		width: 24rem;
