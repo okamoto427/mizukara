@@ -15,7 +15,8 @@
             <a href="<?php echo home_url('/coaching/'); ?>" class="c-hover-opacity">エグゼクティブコーチング</a><br>
             <a href="https://goal-b.co.jp/careerspeed/" target="_blank" class="c-hover-opacity">キャリアコーチング</a><br>
             <a href="<?php echo home_url('/human-resource-training/'); ?>" class="c-hover-opacity">人材研修プログラム</a><br>
-            <a href="<?php echo home_url('/agent/'); ?>" class="c-hover-opacity">組織コーチング</a>
+            <a href="<?php echo home_url('/agent/'); ?>" target="_blank" class="c-hover-opacity">転職支援事業</a><br>
+            <a href="<?php echo home_url('/impact/'); ?>" class="c-hover-opacity">組織コーチング</a>
           </div>
         </div>
         <div class="l-header-drawer__el">
@@ -37,6 +38,7 @@
       <a href="<?php echo home_url('/coaching/'); ?>" class="c-hover-opacity">エグゼクティブコーチング</a><br>
       <a href="https://goal-b.co.jp/careerspeed/" target="_blank" class="c-hover-opacity">キャリアコーチング</a><br>
       <a href="<?php echo home_url('/human-resource-training/'); ?>" class="c-hover-opacity">人材研修プログラム</a><br>
+      <a href="<?php echo home_url('/agent/'); ?>" target="_blank" class="c-hover-opacity">転職支援事業</a><br>
       <a href="<?php echo home_url('/agent/'); ?>" class="c-hover-opacity">組織コーチング</a>
       <div class="l-header__megamenuOverlay js-drawer"></div>
     </div>

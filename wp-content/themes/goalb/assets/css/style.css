@@ -4286,6 +4286,9 @@ a:hover .m-voice__text01{
 	margin-bottom: 3rem;
 	aspect-ratio: 3 / 2;
 }
+.m-coach__image.vertical img{
+	aspect-ratio: 3 / 4;
+}
 .m-coach__name{
 	width: 66%;
 }

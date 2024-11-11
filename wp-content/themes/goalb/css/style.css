@@ -7010,7 +7010,7 @@ textarea {
 .m-member__image img{
 	width: 100%;
 	object-fit: cover;
-	aspect-ratio: 3 / 4;
+	aspect-ratio: 3 / 2;
 }
 .m-member__name{
 	margin-bottom: 1.5rem;

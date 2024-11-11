@@ -171,7 +171,6 @@
           <span class="js-view js-view-border bw"><em>すべての人が自分の可能性を</em></span><br>
           <span class="js-view js-view-border bw"><em>見つけ出す時代へ</em></span>
         </h2>
-        <h3><div class="js-view js-view-opacity jcc">ミズカラが◯◯◯◯◯へ◯◯◯◯◯です。</div></h3>
       </div>
     </div>
   
@@ -201,13 +200,13 @@
                 キャリアコーチング
                 <?php get_template_part('assets_renew/images/top/ic-arrow',null,$args); ?>
               </a>
-              <a href="<?php echo home_url('/coaching/'); ?>" class="s-news__icLink reverse c-icLink">
+              <a href="<?php echo home_url('/coaching/'); ?>" class="s-news__icLink c-icLink">
                 エグゼクティブコーチング（経営者向け）
-                <?php get_template_part('assets_renew/images/common/ic-three-circle',null,$args); ?>
+                <?php get_template_part('assets_renew/images/top/ic-arrow',null,$args); ?>
               </a>
-              <a href="<?php echo home_url('/human-resource-training/'); ?>" class="s-news__icLink reverse c-icLink">
+              <a href="<?php echo home_url('/human-resource-training/'); ?>" class="s-news__icLink c-icLink">
                 人材研修プログラム
-                <?php get_template_part('assets_renew/images/common/ic-three-circle',null,$args); ?>
+                <?php get_template_part('assets_renew/images/top/ic-arrow',null,$args); ?>
               </a>
             </div>
           </div>
@@ -220,6 +219,10 @@
               </h3>
             </div>
             <div class="s-business__link">
+              <a href="<?php echo home_url('/agent/'); ?>" target="_blank" class="s-news__icLink c-icLink">
+                転職支援事業
+                <?php get_template_part('assets_renew/images/top/ic-arrow',null,$args); ?>
+              </a>
               <a href="<?php echo home_url('/impact/'); ?>" class="s-news__icLink c-icLink">
                 組織コーチング
                 <?php get_template_part('assets_renew/images/top/ic-arrow',null,$args); ?>
