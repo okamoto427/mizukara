@@ -1,4 +1,5 @@
-<?php get_template_part('header-renew',null,$args); ?>
+
+<?php $args = isset($args) ? $args : []; get_template_part('header-renew',null,$args); ?>
 <section class="s-mv js-mv">
   <?php get_template_part('assets_renew/images/top/loading-logo',null,$args); ?>
 </section>

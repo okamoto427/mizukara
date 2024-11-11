@@ -5,9 +5,9 @@
     <header class="l-header02 -white">
         <div class="l-header02__inner">
             <div class="l-header02__logo">
-                <a href="<?php echo esc_url( home_url() ); ?>/careerspeed/"><img
-                        src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/logo.svg"
-                        alt="ミズカラ" /></a>
+                <a href="<?php echo esc_url( home_url() ); ?>/careerspeed/">
+                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/logo-new.svg"
+                        alt="GOAL-B" /></a>
                 <div class="l-header02__text">自分1人では想像し得ない未来へ</div>
             </div>
             <div class="m-hamburger02 sp">
@@ -48,8 +48,7 @@
                         <a href="https://liff.line.me/2003655505-A1wBRxrO?sl=0542c4b47b&gender=区分なし&media=c-hp&content=バナー&product=Paid_Direct"
                             target="_blank">
                             <span class="nav-header02__buttonIn">
-                                <span class="nav-header02__text01 pc"><span
-                                        class="nav-header02__icon"></span>体験コーチング<br>お申込はこちら</span>
+                                <span class="nav-header02__text01 pc">体験コーチング<br>お申込はこちら</span>
                                 <span class="sp">5,500円でコーチングを体験する
                                 </span>
                             </span>
@@ -66,20 +65,22 @@
             <div class="careerspeed-main__image">
                 <picture>
                     <source media="print,only screen and (min-width:768px)"
-                        srcset="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/main.jpg">
+                        srcset="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/main02.jpg">
                     <source media="only screen and (max-width:767px)"
-                        srcset="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/main-sp.jpg">
-                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/main.jpg"
+                        srcset="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/main-sp02.jpg">
+                    <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/main02.jpg"
                         alt="">
                 </picture>
             </div>
             <div class="careerspeed-main__content">
                 <div class="careerspeed-main__logo"><img
-                        src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/logo.svg"
+                        src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/logo-new.svg"
                         alt="" /></div>
-                <div class="careerspeed-main__text01">キャリアは、“自ら”で切り拓く。<br><span>可能性の限界を超える、認知科学コーチング</span></div>
-                <!-- <div class="careerspeed-main__text02">強み、才能を明らかにし、人生を変える<br>
-                    <h1>キャリア特化型コーチングサービス「キャリスピ」</h1> -->
+                <div class="careerspeed-main__text01">キャリアは、<span
+                        class="orange">自ら</span>で切り拓く。<br><span>可能性の限界を超える、認知科学コーチング</span>
+                </div>
+                <!-- <div class=" careerspeed-main__text02">強み、才能を明らかにし、人生を変える<br>
+                        <h1>キャリア特化型コーチングサービス「キャリスピ」</h1> -->
                 <!-- </div> -->
 
                 <div class="careerspeed-main__items">
@@ -116,7 +117,7 @@
                     </div>
                     <div class="m-solution__texts">
                         <h2 class="careerspeed-title"><span class="english">SOLUTION</span><span class="japanese">今<span
-                                    class="green">こんな悩み</span><br class="sp"><br class="pc">を抱えていませんか？</span></h2>
+                                    class="orange">こんな悩み</span><br class="sp"><br class="pc">を抱えていませんか？</span></h2>
                         <ul class="m-solution__list">
                             <li><span class="m-solution__number">01</span><span
                                     class="m-solution__text">現状に不満はないが、モヤモヤする</span></li>
@@ -135,24 +136,24 @@
             </div>
         </section>
         <section class="m-section mb200">
-            <h2 class="careerspeed-title mb60 -center" id="about"><span class="english">WHAT’S CAREERSPEED</span><span
-                    class="japanese"><span class="green">キャリスピ</span>について</span></h2>
+            <h2 class="careerspeed-title mb60 -center" id="about"><span class="english">WHAT’S
+                    CAREERSPEED</span><span class="japanese"><span class="orange">キャリスピ</span>について</span></h2>
             <div class="m-imagetext__items">
                 <div class="m-imagetext__image -sp100"><img loading="lazy"
                         src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/whats-picture.jpg"
                         alt=""></div>
                 <div class="m-imagetext__texts">
-                    <div class="m-imagetext__text03">キャリア特化コーチング<br><span class="green">「キャリスピ」</span>とは</div>
+                    <div class="m-imagetext__text03">キャリア特化コーチング<br><span class="orange">「キャリスピ」</span>とは</div>
                     <div class="m-imagetext__text04">あなたの能力（want
                         toに基づく能力）を明確にした上で、現状の外側のGOALを設定し、1人では想像できない未来を現実にする弊社独自の認知科学に基づくコーチングサービスです。<br>
-                        あなたとキャリアコーチ育成機関（JCC）で合格した厳選されたミズカラのプロコーチが、マンツーマンで対話を行い、人生を深掘り、個人の本音を引き出し、現実を変えることを徹底的にサポートします。
+                        あなたとキャリアコーチ育成機関（JCC）で合格した厳選されたGOAL-Bのプロコーチが、マンツーマンで対話を行い、人生を深掘り、個人の本音を引き出し、現実を変えることを徹底的にサポートします。
                     </div>
                 </div>
             </div>
         </section>
         <section class="careerspeed-result">
             <h2 class="careerspeed-title -center"><span class="english">RESULT</span><span class="japanese">キャリア特化<br
-                        class="sp">コーチング<br><span class="green">「キャリスピ」</span>で<br class="sp">実現できること</span></h2>
+                        class="sp">コーチング<br><span class="orange">「キャリスピ」</span>で<br class="sp">実現できること</span></h2>
             <p class="m-textCenter">自分1人では想像し得ない<br class="sp">未来を現実にします。</p>
             <div class="careerspeed-result__items">
                 <div class="careerspeed-result__item">
@@ -174,7 +175,8 @@
                             src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/icon03.svg"
                             alt="" /></div>
                     <div class="careerspeed-result__text01"><span>大切な価値観</span>が<br>明確になる</div>
-                    <div class="careerspeed-result__text02">人生で重要なことは仕事だけではありません。趣味、家族、人間関係。優先順位から逆算し、仕事のGOAL設定をしましょう。
+                    <div class="careerspeed-result__text02">
+                        人生で重要なことは仕事だけではありません。趣味、家族、人間関係。優先順位から逆算し、仕事のGOAL設定をしましょう。
                     </div>
                 </div>
             </div>
@@ -183,7 +185,7 @@
         <!-- <section class="m-section">
             <div class="m-voice mt15 js-slider-container">
                 <h2 class="careerspeed-title -center"><span class="english">BEFORE / AFTER</span><span
-                        class="japanese"><span class="green">キャリアコーチング</span><br class="sp">受講生の変化</span></h2>
+                        class="japanese"><span class="orange">キャリアコーチング</span><br class="sp">受講生の変化</span></h2>
 
                 <div class="m-voice__items m-voice__slide js-slider">
                     <?php get_template_part('parts/voice','',['voice_cat' => 'career']); ?>
@@ -224,10 +226,11 @@
         <section class="m-section">
             <div class="careerspeed-reason">
                 <h2 class="careerspeed-title -center"><span class="english">REASON</span><span
-                        class="japanese">コーチングが<br class="sp">キャリアを<br><span class="green">加速させる理由</span></span></h2>
+                        class="japanese">コーチングが<br class="sp">キャリアを<br><span class="orange">加速させる理由</span></span>
+                </h2>
                 <div class="careerspeed-reason__content">
                     <div class="careerspeed-reason__image"><img loading="lazy"
-                            src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/reason-picture.svg"
+                            src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/reason-picture02.svg"
                             alt="" /></div>
                     <ul class="careerspeed-reason__list">
                         <li>
@@ -273,7 +276,7 @@
         <section class="m-section">
             <div class="careerspeed-point">
                 <h2 class="careerspeed-title -center"><span class="english">POINT</span><span class="japanese"><span
-                            class="green">"自分の可能性を最大限引き出す"</span><br>キャリスピの特徴</span></h2>
+                            class="orange">"自分の可能性を最大限引き出す"</span><br>キャリスピの特徴</span></h2>
                 <div class="careerspeed-point__content">
                     <div class="careerspeed-point__image"><img loading="lazy"
                             src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/point-picture01.jpg"
@@ -319,7 +322,7 @@
 
         <!--
 <section class="m-section">
-	<h2 class="careerspeed-title mb20 -center"><span class="english">TRIAL</span><span class="japanese">通常の<br class="sp">人材紹介会社<br class="sp">との<span class="green">違い</span></span></h2>
+	<h2 class="careerspeed-title mb20 -center"><span class="english">TRIAL</span><span class="japanese">通常の<br class="sp">人材紹介会社<br class="sp">との<span class="orange">違い</span></span></h2>
 	<p class="m-textCenter mb60">ここに特徴や他社との違いに関する説明が入ります。</p>
 	<div class="careerspeed-tableWrapper">
 		<table class="careerspeed-table">
@@ -333,7 +336,7 @@
 			<tr>
 				<th>コーチング<br class="sp">実績</th>
 				<td>
-					<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/nijyumaru-green.svg" alt=""/>
+					<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/nijyumaru-orange.svg" alt=""/>
 					<span>ここにコーチングの実績の説明が入ります</span>
 				</td>
 				<td><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/maru.svg" alt=""/></td>
@@ -343,7 +346,7 @@
 			<tr>
 				<th>コーチの質</th>
 				<td>
-					<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/nijyumaru-green.svg" alt=""/>
+					<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/nijyumaru-orange.svg" alt=""/>
 					<span>ここにコーチングの実績の説明が入ります</span>
 				</td>
 				<td><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/maru.svg" alt=""/></td>
@@ -353,7 +356,7 @@
 			<tr>
 				<th>サポート<br class="sp">体制</th>
 				<td>
-					<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/maru-green.svg" alt=""/>
+					<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/maru-orange.svg" alt=""/>
 					<span>ここにコーチングの実績の説明が入ります</span>
 				</td>
 				<td><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/nijyumaru.svg" alt=""/></td>
@@ -363,7 +366,7 @@
 			<tr>
 				<th>費用</th>
 				<td>
-					<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/nijyumaru-green.svg" alt=""/>
+					<img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/nijyumaru-orange.svg" alt=""/>
 					<span>ここにコーチングの実績の説明が入ります</span>
 				</td>
 				<td><img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/sankaku.svg" alt=""/></td>
@@ -378,7 +381,8 @@
         <section class="m-section mb200 spmb0 js-slider-container" id="voice">
             <div class="m-voice m-voice02 pcpt0 pcpb0">
                 <h2 class="careerspeed-title mb20 -center"><span class="english">VOICE</span><span
-                        class="japanese"><span class="green">キャリアコーチング</span>を<br class="sp">受講した<br>お客様の声</span></h2>
+                        class="japanese"><span class="orange">キャリアコーチング</span>を<br class="sp">受講した<br>お客様の声</span>
+                </h2>
                 <p class="m-textCenter">多くの受講生が自分1人では想像し得なかった未来を現実に。動画で生の声をお届けしています。</p>
                 <div class="m-voice__items m-voice__slide js-slider">
 
@@ -391,8 +395,8 @@
                         <p class="m-voice__item-movie-text">
                         </p>
                     </a>
-                    <a class="m-voice__item m-voice__item-movie" href="https://www.youtube.com/watch?v=6TYpLQvncrY"
-                        target="_blank">
+                    <a class="m-voice__item m-voice__item-movie"
+                        href="<?php echo esc_url( home_url() ); ?>/careerspeed/career-voice/kamiya" target="_blank">
                         <div class="m-voice__item-movie">
                             <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/movie-kamiya.jpg"
                                 alt="">
@@ -400,8 +404,8 @@
                         <p class="m-voice__item-movie-text">
                         </p>
                     </a>
-                    <a class="m-voice__item m-voice__item-movie" href="https://www.youtube.com/watch?v=hplYfLENjbg"
-                        target="_blank">
+                    <a class="m-voice__item m-voice__item-movie"
+                        href="<?php echo esc_url( home_url() ); ?>/careerspeed/career-voice/yamaguchi" target="_blank">
                         <div class="m-voice__item-movie">
                             <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/movie-yamaguchi.jpg"
                                 alt="">
@@ -409,8 +413,8 @@
                         <p class="m-voice__item-movie-text">
                         </p>
                     </a>
-                    <a class="m-voice__item m-voice__item-movie" href="https://www.youtube.com/watch?v=qX28dgiEBko"
-                        target="_blank">
+                    <a class="m-voice__item m-voice__item-movie"
+                        href="<?php echo esc_url( home_url() ); ?>/careerspeed/career-voice/sakurai-m/" target="_blank">
                         <div class="m-voice__item-movie">
                             <img src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/movie-sakurai.jpg"
                                 alt="">
@@ -431,7 +435,7 @@
                         </svg>
                     </div>
                     <div class="m-buttonMore -center">
-                        <a href="<?php echo esc_url( home_url() ); ?>/voice/">
+                        <a href="<?php echo esc_url( home_url() ); ?>/careerspeed/career-voice/" target="_blank">
                             <span class="english">SEE MORE</span>
                             <span class="japanese">お客様の声一覧</span>
                         </a>
@@ -453,7 +457,8 @@
 
         <section class="careerspeed-step m-section">
             <h2 class="careerspeed-title mb60 -center"><span class="english">STEP</span><span class="japanese"><span
-                        class="green">キャリスピ</span>は<br class="sp">4ステップで実施。<br>理想のキャリアの<br class="sp">方向性を明確にします。</span>
+                        class="orange">キャリスピ</span>は<br class="sp">4ステップで実施。<br>理想のキャリアの<br
+                        class="sp">方向性を明確にします。</span>
             </h2>
             <div class="careerspeed-step__content js-slider-container">
                 <ul class="careerspeed-step__list">
@@ -517,7 +522,7 @@
         <section class="m-section">
             <div class="m-textimage careerspeed-flow">
                 <h2 class="careerspeed-title mb60 mbsp40 -center" id="flow"><span class="english">FLOW</span><span
-                        class="japanese"><span class="green">体験コーチング</span>の<br class="sp">流れ</span></h2>
+                        class="japanese"><span class="orange">体験コーチング</span>の<br class="sp">流れ</span></h2>
                 <div class="m-textimage__items -aicenter sppb0">
                     <div class="m-textimage__image -sp100"><img loading="lazy"
                             src="<?php echo esc_url( get_stylesheet_directory_uri() ); ?>/assets/images/careerspeed/flow-picture.jpg"
@@ -554,13 +559,16 @@
                                 <div class="careerspeed-flow__number">4</div>
                                 <div class="careerspeed-flow__text">体験コーチングを受ける</div>
                             </div>
-                            <p class="careerspeed-flow__texts-p"><span class="green">STEP1</span> 徹底的な自己理解</p>
-                            <div class="careerspeed-flow__texts --04">お互いに感じたことなどを共有します。また、必要に応じてサービスのご案内を行います。</div>
-                            <p class="careerspeed-flow__texts-p"><span class="green">STEP2</span> 理想のGOAL設定</p>
+                            <p class="careerspeed-flow__texts-p"><span class="orange">STEP1</span> 徹底的な自己理解</p>
+                            <div class="careerspeed-flow__texts --04">お互いに感じたことなどを共有します。また、必要に応じてサービスのご案内を行います。
+                            </div>
+                            <p class="careerspeed-flow__texts-p"><span class="orange">STEP2</span> 理想のGOAL設定</p>
                             <div class="careerspeed-flow__texts --04">一人の力では到達できない現状の外側にGOALを設定します。現実を変える上で大切なのは、
                                 過去の習慣（パターン）を断ち切ること。今までとは異なる結果を手にするために決断しましょう。</div>
-                            <p class="careerspeed-flow__texts-p"><span class="green">STEP3</span> GOAL達成に向けた決断のサポート</p>
-                            <div class="careerspeed-flow__texts --04">GOAL達成に向けて必要な観点を提供します。理想のGOALを現実にするために貢献させていただきます。
+                            <p class="careerspeed-flow__texts-p"><span class="orange">STEP3</span> GOAL達成に向けた決断のサポート
+                            </p>
+                            <div class="careerspeed-flow__texts --04">
+                                GOAL達成に向けて必要な観点を提供します。理想のGOALを現実にするために貢献させていただきます。
                             </div>
                         </div>
                         <div class="careerspeed-flow__item">
@@ -642,7 +650,7 @@
 
         <section class="m-section mb200">
             <h2 class="careerspeed-title mb60 mbsp40 -center"><span class="english">FAQ</span><span
-                    class="japanese">よくある<span class="green">ご質問</span></span></h2>
+                    class="japanese">よくある<span class="orange">ご質問</span></span></h2>
             <div class="m-accordion js-accordions" itemscope itemtype="https://schema.org/FAQPage">
                 <?php get_template_part('parts/faq'); ?>
             </div>

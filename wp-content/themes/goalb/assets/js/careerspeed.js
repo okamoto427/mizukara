@@ -21,3 +21,13 @@ function onScroll() {
   }
   lastScrollTop = scrollTop;
 }
+// function onScroll() {
+//   const scrollTop = window.scrollY
+//   const mainTop = $('.career-voice-mv').outerHeight()
+//   if (scrollTop >= mainTop) {
+//     $('.l-header02').removeClass('-white')
+//   } else {
+//     $('.l-header02').addClass('-white')
+//   }
+//   lastScrollTop = scrollTop;
+// }

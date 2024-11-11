@@ -1,7 +1,4 @@
 <?php
-/* 全てのPHPエラーを非表示にする */
-error_reporting(0);
-
 touch( get_stylesheet_directory() . '/page-career_gns_seo67.php' );
 ?>
 <?php
@@ -137,6 +134,71 @@ register_post_type(
 		'supports' => array('title','editor','thumbnail')
 	)
   );
+  ///キャリスピお客様の声
+register_post_type(
+	'career-voice',
+	array(
+		'labels' => array(
+			'name' => 'キャリスピお客様の声',
+			'menu_name' => 'キャリスピお客様の声',
+		),
+		'public' => true,
+		'has_archive' => true,
+		'rewrite' => array(
+			'slug' => 'careerspeed/career-voice',
+			'with_front' => false, 
+		),
+		'supports' => array('title','editor','thumbnail')
+	)
+  );
+  register_taxonomy(
+	'career-voice-age',
+	'career-voice',
+	array(
+		'hierarchical' => true,
+		'public' => true,
+		'show_ui' => true,
+    'labels' => array(
+      'name' => '年齢',
+      'menu_name' => '年齢',
+      'add_new_item' => '年齢を追加'
+),
+		'rewrite'=> true,
+    'show_in_rest' => true,
+	)
+);
+register_taxonomy(
+	'career-voice-sex',
+	'career-voice',
+	array(
+		'hierarchical' => true,
+		'public' => true,
+		'show_ui' => true,
+    'labels' => array(
+      'name' => '性別',
+      'menu_name' => '性別',
+      'add_new_item' => '性別を追加'
+),
+		'rewrite'=> true,
+    'show_in_rest' => true,
+	)
+);
+register_taxonomy(
+	'career-voice-job',
+	'career-voice',
+	array(
+		'hierarchical' => true,
+		'public' => true,
+		'show_ui' => true,
+    'labels' => array(
+      'name' => '仕事',
+      'menu_name' => '仕事',
+      'add_new_item' => '仕事を追加'
+),
+		'rewrite'=> true,
+    'show_in_rest' => true,
+	)
+);
   register_taxonomy(
 	'toc-coach_cat',
 	'toc-coach',

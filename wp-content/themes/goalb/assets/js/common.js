@@ -363,16 +363,16 @@ $('.js-modal-closeSelf').on('click',function(ev){
   jQuery(document).ready(function($) {
     $(window).scroll(function () {
       var pos = $('.career-voice-mv').offset();  /* mvを過ぎたmainタグの高さを取得して変数[pos]に格納 */
-      var offsetTop = pos.top + 48;              /* 取得した位置に48pxを追加 */
+      var offsetTop = pos.top + $('.career-voice-mv').outerHeight(); /* mvの高さを加算して完全に通過したかを確認 */
       
       if ($(this).scrollTop() > offsetTop) {     /* 変数[offsetTop]よりスクロールされていたら */
-        $('.l-header-career-voice').fadeIn();    /* ヘッダーをふわっと表示 */
+        $('.l-header-career-voice').addClass('is-show');    /* ヘッダーにis-showクラスを追加 */
       } else {
-        $('.l-header-career-voice').fadeOut();   /* ヘッダーをふわっと非表示 */
+        $('.l-header-career-voice').removeClass('is-show');   /* ヘッダーからis-showクラスを削除 */
       }
     });
+    
   });
-  
 
 
   // function loadIframe() {
@@ -407,3 +407,4 @@ new Splide( '.splide',{
   perMove: 1,
   
 } ).mount();
+
