@@ -1977,6 +1977,7 @@ html.is-drawer .l-header__nav {
           writing-mode: vertical-rl;
   text-orientation: upright;
   letter-spacing: 0.1em;
+  white-space: nowrap;
 }
 .s-guideline__el ul li b {
   position: absolute;
